@@ -1,0 +1,2663 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://hashmisameer.github.io/medora/
+Subject: Medora Pharmacy (Practice Demo)
+Date: Fri, 09 Oct 2026 19:26:24 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--J3GHsNUTfnx4ofbx7O9c23wX6e2HNyQRl5MlN7l6QX----"
+
+
+------MultipartBoundary--J3GHsNUTfnx4ofbx7O9c23wX6e2HNyQRl5MlN7l6QX----
+Content-Type: text/html
+Content-ID: <frame-57941F209B04D6CD665A90A73C16B803@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://hashmisameer.github.io/medora/
+
+<!DOCTYPE html><html lang=3D"en" style=3D"--hh: 120px;"><head><meta http-eq=
+uiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"st=
+ylesheet" type=3D"text/css" href=3D"cid:css-8c387b29-e8c5-4f68-a231-550ef74=
+e03b9@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid=
+:css-e6925d5c-1fb4-4dd0-b46e-cd7cb1abce81@mhtml.blink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ viewport-fit=3Dcover">
+<meta name=3D"description" content=3D"Medora: a practice e-commerce pharmac=
+y design by MD Sameer Hashmi. Fictional brand and products.">
+
+<title>Medora Pharmacy (Practice Demo)</title>
+<link rel=3D"preconnect" href=3D"https://fonts.googleapis.com/">
+<link rel=3D"preconnect" href=3D"https://fonts.gstatic.com/" crossorigin=3D=
+"">
+<link rel=3D"stylesheet" href=3D"https://fonts.googleapis.com/css2?family=
+=3DSora:wght@500;600;700;800&amp;family=3DPlus+Jakarta+Sans:wght@400;500;60=
+0;700&amp;display=3Dswap">
+
+
+</head><body><div class=3D"announce" aria-label=3D"Offers">
+  <div class=3D"track">
+    <span>Free delivery on orders above =E2=82=B9499</span><span>Flat 20% o=
+ff on vitamins this week</span><span>Pharmacist chat support 9 am to 9 pm</=
+span><span>Practice demo store, no real orders</span>
+    <span>Free delivery on orders above =E2=82=B9499</span><span>Flat 20% o=
+ff on vitamins this week</span><span>Pharmacist chat support 9 am to 9 pm</=
+span><span>Practice demo store, no real orders</span>
+  </div>
+</div>
+
+<div class=3D"progress" id=3D"prog" aria-hidden=3D"true" style=3D"transform=
+: scaleX(0);"></div>
+<header id=3D"hdr">
+  <div class=3D"wrap hbar">
+    <a class=3D"logo" href=3D"https://hashmisameer.github.io/medora/#top" d=
+ata-home=3D""><span class=3D"mark"><i></i></span><span>Med<b>ora</b></span>=
+</a>
+    <form class=3D"search" role=3D"search" id=3D"searchForm">
+      <label class=3D"sr" for=3D"scat">Category</label>
+      <select id=3D"scat"><option value=3D"all">All</option><option value=
+=3D"vitamins">Vitamins</option><option value=3D"pain">Pain relief</option><=
+option value=3D"skin">Skin care</option><option value=3D"personal">Personal=
+ care</option><option value=3D"devices">Devices</option></select>
+      <label class=3D"sr" for=3D"sq">Search medicines and products</label>
+      <input id=3D"sq" type=3D"search" placeholder=3D"Search medicines, vit=
+amins, brands=E2=80=A6" autocomplete=3D"off" role=3D"combobox" aria-expande=
+d=3D"false" aria-controls=3D"sugg" aria-autocomplete=3D"list">
+      <button type=3D"submit">Search</button>
+      <div class=3D"sugg" id=3D"sugg" role=3D"listbox" aria-label=3D"Search=
+ suggestions"></div>
+    </form>
+    <div class=3D"hicons">
+      <button class=3D"ibtn theme-ic" type=3D"button" aria-label=3D"Switch =
+light or dark theme" id=3D"themeBtn"><svg class=3D"sun" width=3D"20" height=
+=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"1.8"><circle cx=3D"12" cy=3D"12" r=3D"4"></circle><path d=3D"M12 2=
+v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.=
+4M17.7 6.3l1.4-1.4"></path></svg><svg class=3D"moon" width=3D"20" height=3D=
+"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-wid=
+th=3D"1.8"><path d=3D"M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5Z"></path=
+></svg></button>
+      <button class=3D"ibtn" type=3D"button" aria-label=3D"Account" id=3D"a=
+cct"><svg width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" st=
+roke=3D"currentColor" stroke-width=3D"1.8"><circle cx=3D"12" cy=3D"8" r=3D"=
+4"></circle><path d=3D"M4 21c0-4.4 3.6-8 8-8s8 3.6 8 8"></path></svg></butt=
+on>
+      <button class=3D"ibtn" type=3D"button" aria-label=3D"Wishlist" id=3D"=
+wishBtn"><svg width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"none=
+" stroke=3D"currentColor" stroke-width=3D"1.8"><path d=3D"M12 21s-7-4.4-9.3=
+-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z"></path></sv=
+g></button>
+      <button class=3D"ibtn" type=3D"button" aria-label=3D"Open cart" id=3D=
+"cartBtn"><svg width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"non=
+e" stroke=3D"currentColor" stroke-width=3D"1.8"><path d=3D"M3 4h2l2.4 11.2a=
+2 2 0 0 0 2 1.6h7.7a2 2 0 0 0 2-1.5L21 8H6"></path><circle cx=3D"10" cy=3D"=
+20" r=3D"1.4"></circle><circle cx=3D"17" cy=3D"20" r=3D"1.4"></circle></svg=
+><span class=3D"badge bump" id=3D"cartCount">0</span></button>
+    </div>
+  </div>
+  <nav class=3D"cats" aria-label=3D"Categories">
+    <div class=3D"wrap"><ul>
+      <li><a href=3D"https://hashmisameer.github.io/medora/#shop" data-go=
+=3D"all">All products</a></li><li><a href=3D"https://hashmisameer.github.io=
+/medora/#shop" data-go=3D"vitamins">Vitamins &amp; Supplements</a></li><li>=
+<a href=3D"https://hashmisameer.github.io/medora/#shop" data-go=3D"pain">Pa=
+in Relief</a></li><li><a href=3D"https://hashmisameer.github.io/medora/#sho=
+p" data-go=3D"skin">Skin Care</a></li><li><a href=3D"https://hashmisameer.g=
+ithub.io/medora/#shop" data-go=3D"personal">Personal Care</a></li><li><a hr=
+ef=3D"https://hashmisameer.github.io/medora/#shop" data-go=3D"devices">Heal=
+th Devices</a></li><li><a href=3D"https://hashmisameer.github.io/medora/#of=
+fers">Offers</a></li><li><a href=3D"https://hashmisameer.github.io/medora/#=
+faq">Help</a></li>
+    </ul></div>
+  </nav>
+</header>
+
+<main id=3D"top">
+  <!-- HERO -->
+  <section class=3D"hero">
+    <div class=3D"wrap grid">
+      <div>
+        <span class=3D"pill-tag"><i>New</i> Same-day delivery in your city<=
+/span>
+        <h1><span class=3D"w" style=3D"--i:0">Your</span> <span class=3D"w"=
+ style=3D"--i:1">pharmacy,</span> <span class=3D"w" style=3D"--i:2"><em>del=
+ivered</em></span> <span class=3D"w" style=3D"--i:3">with</span> <span clas=
+s=3D"w" style=3D"--i:4">care.</span></h1>
+        <p class=3D"lede">Genuine medicines, vitamins and everyday health e=
+ssentials at honest prices. Order in a minute, track every step, and talk t=
+o a pharmacist when you need one.</p>
+        <div class=3D"ctas">
+          <a class=3D"btn btn-brand magnet" href=3D"https://hashmisameer.gi=
+thub.io/medora/#shop">Shop essentials <svg width=3D"16" height=3D"16" viewB=
+ox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2.2"=
+><path d=3D"M5 12h14M13 6l6 6-6 6"></path></svg></a>
+          <button class=3D"btn btn-line magnet" type=3D"button" id=3D"rxBtn=
+">Upload prescription</button>
+        </div>
+        <div class=3D"perks">
+          <span><svg width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=3D"M12 3 4 6v6=
+c0 4.4 3.4 8.3 8 9 4.6-.7 8-4.6 8-9V6l-8-3Z"></path><path d=3D"m9 12 2 2 4-=
+4"></path></svg>Genuine products</span>
+          <span><svg width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=3D"M3 7h11v9H3=
+zM14 10h4l3 3v3h-7z"></path><circle cx=3D"7" cy=3D"18" r=3D"1.6"></circle><=
+circle cx=3D"17" cy=3D"18" r=3D"1.6"></circle></svg>Fast delivery</span>
+          <span><svg width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=3D"M4 5h16v11H=
+8l-4 4z"></path></svg>Pharmacist chat</span>
+        </div>
+      </div>
+      <div class=3D"stage" id=3D"stage" aria-hidden=3D"true">
+        <div class=3D"blob b1"></div>
+        <div class=3D"layer" data-depth=3D"26" style=3D"transform: translat=
+e(-4.21033px, -10.1309px);">
+          <div class=3D"capsule" style=3D"--w:150px;--c1:var(--brand);--c2:=
+#fff;--rot:-28deg;left:18%;top:20%;--d:7s"></div>
+          <div class=3D"tablet" style=3D"--w:62px;left:58%;top:62%"></div>
+        </div>
+        <div class=3D"layer" data-depth=3D"-16" style=3D"transform: transla=
+te(2.59098px, 6.23439px);">
+          <div class=3D"capsule" style=3D"--w:110px;--c1:var(--accent);--c2=
+:#FFD7CC;--rot:32deg;right:12%;top:38%;--d:8s"></div>
+          <div class=3D"capsule" style=3D"--w:84px;--c1:#2F4A7A;--c2:#BFD0F=
+0;--rot:-60deg;left:52%;top:10%;--d:6s"></div>
+          <div class=3D"tablet" style=3D"--w:42px;left:30%;top:54%;animatio=
+n-delay:-3s"></div>
+        </div>
+        <div class=3D"rx">Rx verified<small>by pharmacist</small></div>
+        <div class=3D"ordercard">
+          <div class=3D"t"><span>Order #MD-2048</span><span>ETA 45 min</spa=
+n></div>
+          <b>Out for delivery</b>
+          <div class=3D"steps-mini"><i class=3D"done"></i><i class=3D"done"=
+></i><i class=3D"now"></i></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SCROLL STORY -->
+  <section class=3D"story" id=3D"story" aria-label=3D"What goes into every =
+Medora order" style=3D"--p: 0.000; --open: 0.000;">
+    <div class=3D"wrap stick">
+      <div class=3D"story-art" aria-hidden=3D"true">
+        <div class=3D"glow"></div>
+        <div id=3D"grains"><span class=3D"grain" style=3D"--s:8px;--c:#0F6E=
+57;--x:-110px;--y:113px"></span><span class=3D"grain" style=3D"--s:7px;--c:=
+#FF6A4D;--x:-141px;--y:27px"></span><span class=3D"grain" style=3D"--s:8px;=
+--c:#E8A520;--x:-29px;--y:-95px"></span><span class=3D"grain" style=3D"--s:=
+15px;--c:#38C79C;--x:101px;--y:-6px"></span><span class=3D"grain" style=3D"=
+--s:14px;--c:#2F4A7A;--x:4px;--y:-167px"></span><span class=3D"grain" style=
+=3D"--s:12px;--c:#fff;--x:42px;--y:61px"></span><span class=3D"grain" style=
+=3D"--s:10px;--c:#0F6E57;--x:27px;--y:63px"></span><span class=3D"grain" st=
+yle=3D"--s:9px;--c:#FF6A4D;--x:-52px;--y:122px"></span><span class=3D"grain=
+" style=3D"--s:15px;--c:#E8A520;--x:156px;--y:-63px"></span><span class=3D"=
+grain" style=3D"--s:13px;--c:#38C79C;--x:21px;--y:-65px"></span><span class=
+=3D"grain" style=3D"--s:13px;--c:#2F4A7A;--x:131px;--y:-121px"></span><span=
+ class=3D"grain" style=3D"--s:10px;--c:#fff;--x:97px;--y:-101px"></span><sp=
+an class=3D"grain" style=3D"--s:10px;--c:#0F6E57;--x:-25px;--y:-68px"></spa=
+n><span class=3D"grain" style=3D"--s:9px;--c:#FF6A4D;--x:28px;--y:105px"></=
+span><span class=3D"grain" style=3D"--s:14px;--c:#E8A520;--x:-79px;--y:106p=
+x"></span><span class=3D"grain" style=3D"--s:12px;--c:#38C79C;--x:87px;--y:=
+-67px"></span><span class=3D"grain" style=3D"--s:14px;--c:#2F4A7A;--x:91px;=
+--y:5px"></span><span class=3D"grain" style=3D"--s:10px;--c:#fff;--x:48px;-=
+-y:-97px"></span><span class=3D"grain" style=3D"--s:9px;--c:#0F6E57;--x:126=
+px;--y:94px"></span><span class=3D"grain" style=3D"--s:10px;--c:#FF6A4D;--x=
+:-59px;--y:82px"></span><span class=3D"grain" style=3D"--s:10px;--c:#E8A520=
+;--x:-119px;--y:-127px"></span><span class=3D"grain" style=3D"--s:15px;--c:=
+#38C79C;--x:89px;--y:105px"></span><span class=3D"grain" style=3D"--s:15px;=
+--c:#2F4A7A;--x:112px;--y:-71px"></span><span class=3D"grain" style=3D"--s:=
+15px;--c:#fff;--x:111px;--y:-120px"></span><span class=3D"grain" style=3D"-=
+-s:15px;--c:#0F6E57;--x:-17px;--y:-75px"></span><span class=3D"grain" style=
+=3D"--s:10px;--c:#FF6A4D;--x:174px;--y:-122px"></span></div>
+        <div class=3D"big-cap"><div class=3D"half l"></div><div class=3D"ha=
+lf r"></div></div>
+      </div>
+      <div class=3D"story-copy">
+        <span class=3D"pill-tag"><i>Inside</i> Every Medora order</span>
+        <h2 style=3D"margin:14px 0 18px">What goes into every capsule we de=
+liver</h2>
+        <div class=3D"sts">
+          <div class=3D"st on"><span class=3D"n">1</span><div><b>Sourced fr=
+om authorised distributors</b><p>Every batch has a clear invoice trail, so =
+you never receive a duplicate.</p></div></div>
+          <div class=3D"st"><span class=3D"n">2</span><div><b>Checked by a =
+pharmacist</b><p>Prescriptions, expiry dates and storage are verified befor=
+e packing.</p></div></div>
+          <div class=3D"st"><span class=3D"n">3</span><div><b>Sealed and tr=
+acked to your door</b><p>Tamper-proof packing and live tracking until it re=
+aches you.</p></div></div>
+        </div>
+        <div class=3D"storybar"><i></i></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORIES -->
+  <section style=3D"padding-top:10px">
+    <div class=3D"wrap">
+      <div class=3D"shead reveal"><div><h2>Shop by category</h2><p>Everythi=
+ng your family needs, in one place.</p></div></div>
+      <div class=3D"catgrid" id=3D"catgrid"><a class=3D"cat reveal" href=3D=
+"https://hashmisameer.github.io/medora/#shop" data-go=3D"vitamins" style=3D=
+"--tone:#0F6E57;--tint:#E4F2EC"><span class=3D"ci"><svg width=3D"26" height=
+=3D"26" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"1.8" stroke-linecap=3D"round" stroke-linejoin=3D"round"><path d=3D=
+"M9 3h6v4H9z"></path><rect x=3D"6" y=3D"7" width=3D"12" height=3D"14" rx=3D=
+"3"></rect><path d=3D"M9 13h6M12 10v6"></path></svg></span>Vitamins</a><a c=
+lass=3D"cat reveal" href=3D"https://hashmisameer.github.io/medora/#shop" da=
+ta-go=3D"pain" style=3D"--tone:#E2492C;--tint:#FFE8E2"><span class=3D"ci"><=
+svg width=3D"26" height=3D"26" viewBox=3D"0 0 24 24" fill=3D"none" stroke=
+=3D"currentColor" stroke-width=3D"1.8" stroke-linecap=3D"round" stroke-line=
+join=3D"round"><path d=3D"M12 21s-7-4.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 =
+0 1 9.3 6C19 16.6 12 21 12 21Z"></path><path d=3D"M8 12h2l1-2 2 4 1-2h2"></=
+path></svg></span>Pain Relief</a><a class=3D"cat reveal" href=3D"https://ha=
+shmisameer.github.io/medora/#shop" data-go=3D"skin" style=3D"--tone:#B4558A=
+;--tint:#F8E4F0"><span class=3D"ci"><svg width=3D"26" height=3D"26" viewBox=
+=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"1.8" s=
+troke-linecap=3D"round" stroke-linejoin=3D"round"><path d=3D"M8 3h8l-1 5H9z=
+"></path><path d=3D"M9 8h6l1 13H8z"></path></svg></span>Skin Care</a><a cla=
+ss=3D"cat reveal" href=3D"https://hashmisameer.github.io/medora/#shop" data=
+-go=3D"personal" style=3D"--tone:#2F4A7A;--tint:#E3EAF7"><span class=3D"ci"=
+><svg width=3D"26" height=3D"26" viewBox=3D"0 0 24 24" fill=3D"none" stroke=
+=3D"currentColor" stroke-width=3D"1.8" stroke-linecap=3D"round" stroke-line=
+join=3D"round"><path d=3D"M7 21V10l5-6 5 6v11z"></path><path d=3D"M10 14h4"=
+></path></svg></span>Personal Care</a><a class=3D"cat reveal" href=3D"https=
+://hashmisameer.github.io/medora/#shop" data-go=3D"devices" style=3D"--tone=
+:#7A5A0F;--tint:#F7EED8"><span class=3D"ci"><svg width=3D"26" height=3D"26"=
+ viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"1.8" stroke-linecap=3D"round" stroke-linejoin=3D"round"><rect x=3D"9" y=
+=3D"2" width=3D"6" height=3D"14" rx=3D"3"></rect><circle cx=3D"12" cy=3D"18=
+" r=3D"3"></circle></svg></span>Devices</a><a class=3D"cat reveal" href=3D"=
+https://hashmisameer.github.io/medora/#shop" data-go=3D"baby" style=3D"--to=
+ne:#0E7A8A;--tint:#DFF3F5"><span class=3D"ci"><svg width=3D"26" height=3D"2=
+6" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"1.8" stroke-linecap=3D"round" stroke-linejoin=3D"round"><circle cx=3D"1=
+2" cy=3D"9" r=3D"5"></circle><path d=3D"M5 21c1-4 4-6 7-6s6 2 7 6"></path><=
+/svg></span>Baby Care</a><a class=3D"cat reveal" href=3D"https://hashmisame=
+er.github.io/medora/#shop" data-go=3D"diabetes" style=3D"--tone:#5B3FA8;--t=
+int:#ECE6FA"><span class=3D"ci"><svg width=3D"26" height=3D"26" viewBox=3D"=
+0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"1.8" strok=
+e-linecap=3D"round" stroke-linejoin=3D"round"><path d=3D"M12 3c3 4 6 7 6 11=
+a6 6 0 0 1-12 0c0-4 3-7 6-11z"></path></svg></span>Diabetes</a><a class=3D"=
+cat reveal" href=3D"https://hashmisameer.github.io/medora/#shop" data-go=3D=
+"ayurveda" style=3D"--tone:#3E7A1F;--tint:#E7F3DD"><span class=3D"ci"><svg =
+width=3D"26" height=3D"26" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"cu=
+rrentColor" stroke-width=3D"1.8" stroke-linecap=3D"round" stroke-linejoin=
+=3D"round"><path d=3D"M5 19c0-8 6-14 14-14 0 8-6 14-14 14z"></path><path d=
+=3D"M5 19 13 11"></path></svg></span>Ayurveda</a></div>
+    </div>
+  </section>
+
+  <!-- CONCERNS MARQUEE -->
+  <section style=3D"padding-top:0" aria-label=3D"Shop by health concern">
+    <div class=3D"chips" id=3D"chips"><div class=3D"mq"><button class=3D"ch=
+ip" type=3D"button" data-go=3D"vitamins" style=3D"--c:#0F6E57"><i></i>Immun=
+ity</button><button class=3D"chip" type=3D"button" data-go=3D"vitamins" sty=
+le=3D"--c:#E8A520"><i></i>Bone health</button><button class=3D"chip" type=
+=3D"button" data-go=3D"vitamins" style=3D"--c:#E2492C"><i></i>Heart care</b=
+utton><button class=3D"chip" type=3D"button" data-go=3D"pain" style=3D"--c:=
+#FF6A4D"><i></i>Fever &amp; pain</button><button class=3D"chip" type=3D"but=
+ton" data-go=3D"skin" style=3D"--c:#B4558A"><i></i>Sun protection</button><=
+button class=3D"chip" type=3D"button" data-go=3D"skin" style=3D"--c:#5B3FA8=
+"><i></i>Dry skin</button><button class=3D"chip" type=3D"button" data-go=3D=
+"personal" style=3D"--c:#0E7A8A"><i></i>Hydration</button><button class=3D"=
+chip" type=3D"button" data-go=3D"personal" style=3D"--c:#2F4A7A"><i></i>Hyg=
+iene</button><button class=3D"chip" type=3D"button" data-go=3D"devices" sty=
+le=3D"--c:#3E7A1F"><i></i>BP checks</button><button class=3D"chip" type=3D"=
+button" data-go=3D"vitamins" style=3D"--c:#7A5A0F"><i></i>Daily energy</but=
+ton><button class=3D"chip" type=3D"button" data-go=3D"vitamins" style=3D"--=
+c:#0F6E57"><i></i>Immunity</button><button class=3D"chip" type=3D"button" d=
+ata-go=3D"vitamins" style=3D"--c:#E8A520"><i></i>Bone health</button><butto=
+n class=3D"chip" type=3D"button" data-go=3D"vitamins" style=3D"--c:#E2492C"=
+><i></i>Heart care</button><button class=3D"chip" type=3D"button" data-go=
+=3D"pain" style=3D"--c:#FF6A4D"><i></i>Fever &amp; pain</button><button cla=
+ss=3D"chip" type=3D"button" data-go=3D"skin" style=3D"--c:#B4558A"><i></i>S=
+un protection</button><button class=3D"chip" type=3D"button" data-go=3D"ski=
+n" style=3D"--c:#5B3FA8"><i></i>Dry skin</button><button class=3D"chip" typ=
+e=3D"button" data-go=3D"personal" style=3D"--c:#0E7A8A"><i></i>Hydration</b=
+utton><button class=3D"chip" type=3D"button" data-go=3D"personal" style=3D"=
+--c:#2F4A7A"><i></i>Hygiene</button><button class=3D"chip" type=3D"button" =
+data-go=3D"devices" style=3D"--c:#3E7A1F"><i></i>BP checks</button><button =
+class=3D"chip" type=3D"button" data-go=3D"vitamins" style=3D"--c:#7A5A0F"><=
+i></i>Daily energy</button></div><div class=3D"mq rev"><button class=3D"chi=
+p" type=3D"button" data-go=3D"vitamins" style=3D"--c:#7A5A0F"><i></i>Daily =
+energy</button><button class=3D"chip" type=3D"button" data-go=3D"devices" s=
+tyle=3D"--c:#3E7A1F"><i></i>BP checks</button><button class=3D"chip" type=
+=3D"button" data-go=3D"personal" style=3D"--c:#2F4A7A"><i></i>Hygiene</butt=
+on><button class=3D"chip" type=3D"button" data-go=3D"personal" style=3D"--c=
+:#0E7A8A"><i></i>Hydration</button><button class=3D"chip" type=3D"button" d=
+ata-go=3D"skin" style=3D"--c:#5B3FA8"><i></i>Dry skin</button><button class=
+=3D"chip" type=3D"button" data-go=3D"skin" style=3D"--c:#B4558A"><i></i>Sun=
+ protection</button><button class=3D"chip" type=3D"button" data-go=3D"pain"=
+ style=3D"--c:#FF6A4D"><i></i>Fever &amp; pain</button><button class=3D"chi=
+p" type=3D"button" data-go=3D"vitamins" style=3D"--c:#E2492C"><i></i>Heart =
+care</button><button class=3D"chip" type=3D"button" data-go=3D"vitamins" st=
+yle=3D"--c:#E8A520"><i></i>Bone health</button><button class=3D"chip" type=
+=3D"button" data-go=3D"vitamins" style=3D"--c:#0F6E57"><i></i>Immunity</but=
+ton><button class=3D"chip" type=3D"button" data-go=3D"vitamins" style=3D"--=
+c:#7A5A0F"><i></i>Daily energy</button><button class=3D"chip" type=3D"butto=
+n" data-go=3D"devices" style=3D"--c:#3E7A1F"><i></i>BP checks</button><butt=
+on class=3D"chip" type=3D"button" data-go=3D"personal" style=3D"--c:#2F4A7A=
+"><i></i>Hygiene</button><button class=3D"chip" type=3D"button" data-go=3D"=
+personal" style=3D"--c:#0E7A8A"><i></i>Hydration</button><button class=3D"c=
+hip" type=3D"button" data-go=3D"skin" style=3D"--c:#5B3FA8"><i></i>Dry skin=
+</button><button class=3D"chip" type=3D"button" data-go=3D"skin" style=3D"-=
+-c:#B4558A"><i></i>Sun protection</button><button class=3D"chip" type=3D"bu=
+tton" data-go=3D"pain" style=3D"--c:#FF6A4D"><i></i>Fever &amp; pain</butto=
+n><button class=3D"chip" type=3D"button" data-go=3D"vitamins" style=3D"--c:=
+#E2492C"><i></i>Heart care</button><button class=3D"chip" type=3D"button" d=
+ata-go=3D"vitamins" style=3D"--c:#E8A520"><i></i>Bone health</button><butto=
+n class=3D"chip" type=3D"button" data-go=3D"vitamins" style=3D"--c:#0F6E57"=
+><i></i>Immunity</button></div></div>
+  </section>
+
+  <!-- OFFERS -->
+  <section id=3D"offers" style=3D"padding-top:10px">
+    <div class=3D"wrap">
+      <div class=3D"slider reveal" id=3D"slider">
+        <div class=3D"slide s1"><div><h3>20% off on all vitamins</h3><p>Sto=
+ck up on daily multivitamins, D3 and omega-3.</p><span class=3D"code">VITA2=
+0</span></div><div class=3D"art">20%</div></div>
+        <div class=3D"slide s2"><div><h3>Free delivery above =E2=82=B9499</=
+h3><p>No minimum on your first order. Delivered in hours.</p><span class=3D=
+"code">FIRSTFREE</span></div><div class=3D"art">=E2=82=B90</div></div>
+        <div class=3D"slide s3 on"><div><h3>Health devices week</h3><p>Ther=
+mometers and BP monitors at the best prices.</p><span class=3D"code">CARE15=
+</span></div><div class=3D"art">15%</div></div>
+        <div class=3D"dots" role=3D"tablist" aria-label=3D"Offer slides"><b=
+utton type=3D"button" role=3D"tab" aria-label=3D"Offer 1" class=3D""></butt=
+on><button type=3D"button" role=3D"tab" aria-label=3D"Offer 2" class=3D""><=
+/button><button type=3D"button" role=3D"tab" aria-label=3D"Offer 3" class=
+=3D"on"></button></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRODUCTS -->
+  <section id=3D"shop">
+    <div class=3D"wrap">
+      <div class=3D"shead reveal">
+        <div><h2>Best sellers</h2><p id=3D"resultNote">Most loved this mont=
+h.</p></div>
+        <div class=3D"tabs" id=3D"tabs" role=3D"group" aria-label=3D"Filter=
+ products"><button class=3D"tab" type=3D"button" data-f=3D"all" aria-presse=
+d=3D"true">All</button><button class=3D"tab" type=3D"button" data-f=3D"vita=
+mins" aria-pressed=3D"false">Vitamins</button><button class=3D"tab" type=3D=
+"button" data-f=3D"pain" aria-pressed=3D"false">Pain relief</button><button=
+ class=3D"tab" type=3D"button" data-f=3D"skin" aria-pressed=3D"false">Skin =
+care</button><button class=3D"tab" type=3D"button" data-f=3D"personal" aria=
+-pressed=3D"false">Personal care</button><button class=3D"tab" type=3D"butt=
+on" data-f=3D"devices" aria-pressed=3D"false">Devices</button></div>
+      </div>
+      <div class=3D"pgrid" id=3D"pgrid"><article class=3D"card enter" style=
+=3D"animation-delay:0ms" data-id=3D"1"><div class=3D"thumb" data-open=3D"1"=
+><svg viewBox=3D"0 0 100 120" aria-hidden=3D"true"><rect x=3D"32" y=3D"6" w=
+idth=3D"36" height=3D"16" rx=3D"4" fill=3D"#0F6E57"></rect><rect x=3D"28" y=
+=3D"20" width=3D"44" height=3D"8" rx=3D"3" fill=3D"#0F6E57" opacity=3D".7">=
+</rect><rect x=3D"18" y=3D"28" width=3D"64" height=3D"86" rx=3D"16" fill=3D=
+"#fff" stroke=3D"#0F6E57" stroke-width=3D"3"></rect><rect x=3D"18" y=3D"52"=
+ width=3D"64" height=3D"38" fill=3D"#0F6E57"></rect><text x=3D"50" y=3D"77"=
+ text-anchor=3D"middle" font-family=3D"Sora,sans-serif" font-weight=3D"800"=
+ font-size=3D"18" fill=3D"#fff">M</text><rect x=3D"26" y=3D"34" width=3D"8"=
+ height=3D"70" rx=3D"4" fill=3D"#fff" opacity=3D".35"></rect></svg><span cl=
+ass=3D"off">25% off</span><button class=3D"heart" type=3D"button" data-wish=
+=3D"1" aria-pressed=3D"false" aria-label=3D"Save Daily Multivitamin"><svg w=
+idth=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"cur=
+rentColor" stroke-width=3D"2"><path d=3D"M12 21s-7-4.4-9.3-9A5.3 5.3 0 0 1 =
+12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z"></path></svg></button><butto=
+n class=3D"qv" type=3D"button" data-qv=3D"1">Quick view</button></div><div>=
+<h3><a href=3D"https://hashmisameer.github.io/medora/#top" class=3D"plink" =
+data-open=3D"1">Daily Multivitamin</a></h3><p class=3D"pack">Bottle of 60 t=
+ablets</p></div><div class=3D"rate"><b>=E2=98=85 4.6</b>1,240 ratings</div>=
+<div class=3D"buy"><div class=3D"price"><b>=E2=82=B9449</b><s>=E2=82=B9599<=
+/s></div><span class=3D"slot"><button class=3D"add" type=3D"button" data-ad=
+d=3D"1">Add to cart</button></span></div></article><article class=3D"card e=
+nter" style=3D"animation-delay:45ms" data-id=3D"2"><div class=3D"thumb" dat=
+a-open=3D"2"><svg viewBox=3D"0 0 100 120" aria-hidden=3D"true"><rect x=3D"3=
+2" y=3D"6" width=3D"36" height=3D"16" rx=3D"4" fill=3D"#E8A520"></rect><rec=
+t x=3D"28" y=3D"20" width=3D"44" height=3D"8" rx=3D"3" fill=3D"#E8A520" opa=
+city=3D".7"></rect><rect x=3D"18" y=3D"28" width=3D"64" height=3D"86" rx=3D=
+"16" fill=3D"#fff" stroke=3D"#E8A520" stroke-width=3D"3"></rect><rect x=3D"=
+18" y=3D"52" width=3D"64" height=3D"38" fill=3D"#E8A520"></rect><text x=3D"=
+50" y=3D"77" text-anchor=3D"middle" font-family=3D"Sora,sans-serif" font-we=
+ight=3D"800" font-size=3D"18" fill=3D"#fff">M</text><rect x=3D"26" y=3D"34"=
+ width=3D"8" height=3D"70" rx=3D"4" fill=3D"#fff" opacity=3D".35"></rect></=
+svg><span class=3D"off">20% off</span><button class=3D"heart" type=3D"butto=
+n" data-wish=3D"2" aria-pressed=3D"false" aria-label=3D"Save Vitamin D3 200=
+0 IU"><svg width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" s=
+troke=3D"currentColor" stroke-width=3D"2"><path d=3D"M12 21s-7-4.4-9.3-9A5.=
+3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z"></path></svg></b=
+utton><button class=3D"qv" type=3D"button" data-qv=3D"2">Quick view</button=
+></div><div><h3><a href=3D"https://hashmisameer.github.io/medora/#top" clas=
+s=3D"plink" data-open=3D"2">Vitamin D3 2000 IU</a></h3><p class=3D"pack">Bo=
+ttle of 60 softgels</p></div><div class=3D"rate"><b>=E2=98=85 4.7</b>860 ra=
+tings</div><div class=3D"buy"><div class=3D"price"><b>=E2=82=B9329</b><s>=
+=E2=82=B9410</s></div><span class=3D"slot"><button class=3D"add" type=3D"bu=
+tton" data-add=3D"2">Add to cart</button></span></div></article><article cl=
+ass=3D"card enter" style=3D"animation-delay:90ms" data-id=3D"3"><div class=
+=3D"thumb" data-open=3D"3"><svg viewBox=3D"0 0 100 120" aria-hidden=3D"true=
+"><rect x=3D"32" y=3D"6" width=3D"36" height=3D"16" rx=3D"4" fill=3D"#2F4A7=
+A"></rect><rect x=3D"28" y=3D"20" width=3D"44" height=3D"8" rx=3D"3" fill=
+=3D"#2F4A7A" opacity=3D".7"></rect><rect x=3D"18" y=3D"28" width=3D"64" hei=
+ght=3D"86" rx=3D"16" fill=3D"#fff" stroke=3D"#2F4A7A" stroke-width=3D"3"></=
+rect><rect x=3D"18" y=3D"52" width=3D"64" height=3D"38" fill=3D"#2F4A7A"></=
+rect><text x=3D"50" y=3D"77" text-anchor=3D"middle" font-family=3D"Sora,san=
+s-serif" font-weight=3D"800" font-size=3D"18" fill=3D"#fff">M</text><rect x=
+=3D"26" y=3D"34" width=3D"8" height=3D"70" rx=3D"4" fill=3D"#fff" opacity=
+=3D".35"></rect></svg><span class=3D"off">25% off</span><button class=3D"he=
+art" type=3D"button" data-wish=3D"3" aria-pressed=3D"false" aria-label=3D"S=
+ave Omega-3 Fish Oil"><svg width=3D"16" height=3D"16" viewBox=3D"0 0 24 24"=
+ fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=3D"M12 21=
+s-7-4.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z">=
+</path></svg></button><button class=3D"qv" type=3D"button" data-qv=3D"3">Qu=
+ick view</button></div><div><h3><a href=3D"https://hashmisameer.github.io/m=
+edora/#top" class=3D"plink" data-open=3D"3">Omega-3 Fish Oil</a></h3><p cla=
+ss=3D"pack">Bottle of 90 capsules</p></div><div class=3D"rate"><b>=E2=98=85=
+ 4.5</b>530 ratings</div><div class=3D"buy"><div class=3D"price"><b>=E2=82=
+=B9599</b><s>=E2=82=B9799</s></div><span class=3D"slot"><button class=3D"ad=
+d" type=3D"button" data-add=3D"3">Add to cart</button></span></div></articl=
+e><article class=3D"card enter" style=3D"animation-delay:135ms" data-id=3D"=
+4"><div class=3D"thumb" data-open=3D"4"><svg viewBox=3D"0 0 120 110" aria-h=
+idden=3D"true"><path d=3D"M20 30 60 14l40 16v60l-40 16-40-16z" fill=3D"#fff=
+" stroke=3D"#E2492C" stroke-width=3D"3" stroke-linejoin=3D"round"></path><p=
+ath d=3D"M20 30l40 16 40-16M60 46v60" fill=3D"none" stroke=3D"#E2492C" stro=
+ke-width=3D"3"></path><path d=3D"M22 52l36 14v20L22 72z" fill=3D"#E2492C"><=
+/path><text x=3D"40" y=3D"74" text-anchor=3D"middle" font-family=3D"Sora,sa=
+ns-serif" font-weight=3D"800" font-size=3D"13" fill=3D"#fff" transform=3D"s=
+kewY(20) translate(0,-14)">M</text></svg><span class=3D"off">14% off</span>=
+<button class=3D"heart" type=3D"button" data-wish=3D"4" aria-pressed=3D"fal=
+se" aria-label=3D"Save Paracetamol 500 mg"><svg width=3D"16" height=3D"16" =
+viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D=
+"2"><path d=3D"M12 21s-7-4.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C1=
+9 16.6 12 21 12 21Z"></path></svg></button><button class=3D"qv" type=3D"but=
+ton" data-qv=3D"4">Quick view</button></div><div><h3><a href=3D"https://has=
+hmisameer.github.io/medora/#top" class=3D"plink" data-open=3D"4">Paracetamo=
+l 500 mg</a></h3><p class=3D"pack">Strip of 15 tablets</p></div><div class=
+=3D"rate"><b>=E2=98=85 4.8</b>3,100 ratings</div><div class=3D"buy"><div cl=
+ass=3D"price"><b>=E2=82=B930</b><s>=E2=82=B935</s></div><span class=3D"slot=
+"><button class=3D"add" type=3D"button" data-add=3D"4">Add to cart</button>=
+</span></div></article><article class=3D"card enter" style=3D"animation-del=
+ay:180ms" data-id=3D"5"><div class=3D"thumb" data-open=3D"5"><svg viewBox=
+=3D"0 0 100 120" aria-hidden=3D"true"><path d=3D"M26 18h48l-6 92H32z" fill=
+=3D"#fff" stroke=3D"#FF6A4D" stroke-width=3D"3" stroke-linejoin=3D"round"><=
+/path><rect x=3D"24" y=3D"10" width=3D"52" height=3D"10" rx=3D"3" fill=3D"#=
+FF6A4D"></rect><rect x=3D"40" y=3D"110" width=3D"20" height=3D"8" rx=3D"2" =
+fill=3D"#FF6A4D"></rect><path d=3D"M28 46h44l-2 30H30z" fill=3D"#FF6A4D"></=
+path><text x=3D"50" y=3D"67" text-anchor=3D"middle" font-family=3D"Sora,san=
+s-serif" font-weight=3D"800" font-size=3D"15" fill=3D"#fff">M</text></svg><=
+span class=3D"off">19% off</span><button class=3D"heart" type=3D"button" da=
+ta-wish=3D"5" aria-pressed=3D"false" aria-label=3D"Save Pain Relief Gel"><s=
+vg width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D=
+"currentColor" stroke-width=3D"2"><path d=3D"M12 21s-7-4.4-9.3-9A5.3 5.3 0 =
+0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z"></path></svg></button><b=
+utton class=3D"qv" type=3D"button" data-qv=3D"5">Quick view</button></div><=
+div><h3><a href=3D"https://hashmisameer.github.io/medora/#top" class=3D"pli=
+nk" data-open=3D"5">Pain Relief Gel</a></h3><p class=3D"pack">Tube of 30 g<=
+/p></div><div class=3D"rate"><b>=E2=98=85 4.4</b>720 ratings</div><div clas=
+s=3D"buy"><div class=3D"price"><b>=E2=82=B9145</b><s>=E2=82=B9180</s></div>=
+<span class=3D"slot"><button class=3D"add" type=3D"button" data-add=3D"5">A=
+dd to cart</button></span></div></article><article class=3D"card enter" sty=
+le=3D"animation-delay:225ms" data-id=3D"6"><div class=3D"thumb" data-open=
+=3D"6"><svg viewBox=3D"0 0 100 120" aria-hidden=3D"true"><path d=3D"M26 18h=
+48l-6 92H32z" fill=3D"#fff" stroke=3D"#E8A520" stroke-width=3D"3" stroke-li=
+nejoin=3D"round"></path><rect x=3D"24" y=3D"10" width=3D"52" height=3D"10" =
+rx=3D"3" fill=3D"#E8A520"></rect><rect x=3D"40" y=3D"110" width=3D"20" heig=
+ht=3D"8" rx=3D"2" fill=3D"#E8A520"></rect><path d=3D"M28 46h44l-2 30H30z" f=
+ill=3D"#E8A520"></path><text x=3D"50" y=3D"67" text-anchor=3D"middle" font-=
+family=3D"Sora,sans-serif" font-weight=3D"800" font-size=3D"15" fill=3D"#ff=
+f">M</text></svg><span class=3D"off">20% off</span><button class=3D"heart" =
+type=3D"button" data-wish=3D"6" aria-pressed=3D"false" aria-label=3D"Save S=
+unscreen SPF 50"><svg width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=3D"M12 21s-7-4=
+.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z"></pat=
+h></svg></button><button class=3D"qv" type=3D"button" data-qv=3D"6">Quick v=
+iew</button></div><div><h3><a href=3D"https://hashmisameer.github.io/medora=
+/#top" class=3D"plink" data-open=3D"6">Sunscreen SPF 50</a></h3><p class=3D=
+"pack">Tube of 50 ml</p></div><div class=3D"rate"><b>=E2=98=85 4.6</b>910 r=
+atings</div><div class=3D"buy"><div class=3D"price"><b>=E2=82=B9399</b><s>=
+=E2=82=B9499</s></div><span class=3D"slot"><button class=3D"add" type=3D"bu=
+tton" data-add=3D"6">Add to cart</button></span></div></article><article cl=
+ass=3D"card enter" style=3D"animation-delay:270ms" data-id=3D"7"><div class=
+=3D"thumb" data-open=3D"7"><svg viewBox=3D"0 0 100 120" aria-hidden=3D"true=
+"><rect x=3D"32" y=3D"6" width=3D"36" height=3D"16" rx=3D"4" fill=3D"#B4558=
+A"></rect><rect x=3D"28" y=3D"20" width=3D"44" height=3D"8" rx=3D"3" fill=
+=3D"#B4558A" opacity=3D".7"></rect><rect x=3D"18" y=3D"28" width=3D"64" hei=
+ght=3D"86" rx=3D"16" fill=3D"#fff" stroke=3D"#B4558A" stroke-width=3D"3"></=
+rect><rect x=3D"18" y=3D"52" width=3D"64" height=3D"38" fill=3D"#B4558A"></=
+rect><text x=3D"50" y=3D"77" text-anchor=3D"middle" font-family=3D"Sora,san=
+s-serif" font-weight=3D"800" font-size=3D"18" fill=3D"#fff">M</text><rect x=
+=3D"26" y=3D"34" width=3D"8" height=3D"70" rx=3D"4" fill=3D"#fff" opacity=
+=3D".35"></rect></svg><span class=3D"off">20% off</span><button class=3D"he=
+art" type=3D"button" data-wish=3D"7" aria-pressed=3D"false" aria-label=3D"S=
+ave Moisturising Lotion"><svg width=3D"16" height=3D"16" viewBox=3D"0 0 24 =
+24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=3D"M12=
+ 21s-7-4.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21=
+Z"></path></svg></button><button class=3D"qv" type=3D"button" data-qv=3D"7"=
+>Quick view</button></div><div><h3><a href=3D"https://hashmisameer.github.i=
+o/medora/#top" class=3D"plink" data-open=3D"7">Moisturising Lotion</a></h3>=
+<p class=3D"pack">Bottle of 200 ml</p></div><div class=3D"rate"><b>=E2=98=
+=85 4.5</b>640 ratings</div><div class=3D"buy"><div class=3D"price"><b>=E2=
+=82=B9279</b><s>=E2=82=B9349</s></div><span class=3D"slot"><button class=3D=
+"add" type=3D"button" data-add=3D"7">Add to cart</button></span></div></art=
+icle><article class=3D"card enter" style=3D"animation-delay:315ms" data-id=
+=3D"8"><div class=3D"thumb" data-open=3D"8"><svg viewBox=3D"0 0 100 120" ar=
+ia-hidden=3D"true"><rect x=3D"32" y=3D"6" width=3D"36" height=3D"16" rx=3D"=
+4" fill=3D"#0E7A8A"></rect><rect x=3D"28" y=3D"20" width=3D"44" height=3D"8=
+" rx=3D"3" fill=3D"#0E7A8A" opacity=3D".7"></rect><rect x=3D"18" y=3D"28" w=
+idth=3D"64" height=3D"86" rx=3D"16" fill=3D"#fff" stroke=3D"#0E7A8A" stroke=
+-width=3D"3"></rect><rect x=3D"18" y=3D"52" width=3D"64" height=3D"38" fill=
+=3D"#0E7A8A"></rect><text x=3D"50" y=3D"77" text-anchor=3D"middle" font-fam=
+ily=3D"Sora,sans-serif" font-weight=3D"800" font-size=3D"18" fill=3D"#fff">=
+M</text><rect x=3D"26" y=3D"34" width=3D"8" height=3D"70" rx=3D"4" fill=3D"=
+#fff" opacity=3D".35"></rect></svg><span class=3D"off">24% off</span><butto=
+n class=3D"heart" type=3D"button" data-wish=3D"8" aria-pressed=3D"false" ar=
+ia-label=3D"Save Hand Sanitizer"><svg width=3D"16" height=3D"16" viewBox=3D=
+"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path =
+d=3D"M12 21s-7-4.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 =
+21 12 21Z"></path></svg></button><button class=3D"qv" type=3D"button" data-=
+qv=3D"8">Quick view</button></div><div><h3><a href=3D"https://hashmisameer.=
+github.io/medora/#top" class=3D"plink" data-open=3D"8">Hand Sanitizer</a></=
+h3><p class=3D"pack">Bottle of 500 ml</p></div><div class=3D"rate"><b>=E2=
+=98=85 4.4</b>1,500 ratings</div><div class=3D"buy"><div class=3D"price"><b=
+>=E2=82=B9189</b><s>=E2=82=B9250</s></div><span class=3D"slot"><button clas=
+s=3D"add" type=3D"button" data-add=3D"8">Add to cart</button></span></div><=
+/article><article class=3D"card enter" style=3D"animation-delay:360ms" data=
+-id=3D"9"><div class=3D"thumb" data-open=3D"9"><svg viewBox=3D"0 0 120 110"=
+ aria-hidden=3D"true"><path d=3D"M20 30 60 14l40 16v60l-40 16-40-16z" fill=
+=3D"#fff" stroke=3D"#2F4A7A" stroke-width=3D"3" stroke-linejoin=3D"round"><=
+/path><path d=3D"M20 30l40 16 40-16M60 46v60" fill=3D"none" stroke=3D"#2F4A=
+7A" stroke-width=3D"3"></path><path d=3D"M22 52l36 14v20L22 72z" fill=3D"#2=
+F4A7A"></path><text x=3D"40" y=3D"74" text-anchor=3D"middle" font-family=3D=
+"Sora,sans-serif" font-weight=3D"800" font-size=3D"13" fill=3D"#fff" transf=
+orm=3D"skewY(20) translate(0,-14)">M</text></svg><span class=3D"off">14% of=
+f</span><button class=3D"heart" type=3D"button" data-wish=3D"9" aria-presse=
+d=3D"false" aria-label=3D"Save Oral Rehydration Salts"><svg width=3D"16" he=
+ight=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" str=
+oke-width=3D"2"><path d=3D"M12 21s-7-4.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0=
+ 0 1 9.3 6C19 16.6 12 21 12 21Z"></path></svg></button><button class=3D"qv"=
+ type=3D"button" data-qv=3D"9">Quick view</button></div><div><h3><a href=3D=
+"https://hashmisameer.github.io/medora/#top" class=3D"plink" data-open=3D"9=
+">Oral Rehydration Salts</a></h3><p class=3D"pack">Box of 10 sachets</p></d=
+iv><div class=3D"rate"><b>=E2=98=85 4.7</b>480 ratings</div><div class=3D"b=
+uy"><div class=3D"price"><b>=E2=82=B9120</b><s>=E2=82=B9140</s></div><span =
+class=3D"slot"><button class=3D"add" type=3D"button" data-add=3D"9">Add to =
+cart</button></span></div></article><article class=3D"card enter" style=3D"=
+animation-delay:405ms" data-id=3D"10"><div class=3D"thumb" data-open=3D"10"=
+><svg viewBox=3D"0 0 120 110" aria-hidden=3D"true"><path d=3D"M20 30 60 14l=
+40 16v60l-40 16-40-16z" fill=3D"#fff" stroke=3D"#5B3FA8" stroke-width=3D"3"=
+ stroke-linejoin=3D"round"></path><path d=3D"M20 30l40 16 40-16M60 46v60" f=
+ill=3D"none" stroke=3D"#5B3FA8" stroke-width=3D"3"></path><path d=3D"M22 52=
+l36 14v20L22 72z" fill=3D"#5B3FA8"></path><text x=3D"40" y=3D"74" text-anch=
+or=3D"middle" font-family=3D"Sora,sans-serif" font-weight=3D"800" font-size=
+=3D"13" fill=3D"#fff" transform=3D"skewY(20) translate(0,-14)">M</text></sv=
+g><span class=3D"off">38% off</span><button class=3D"heart" type=3D"button"=
+ data-wish=3D"10" aria-pressed=3D"false" aria-label=3D"Save Digital Thermom=
+eter"><svg width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" s=
+troke=3D"currentColor" stroke-width=3D"2"><path d=3D"M12 21s-7-4.4-9.3-9A5.=
+3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z"></path></svg></b=
+utton><button class=3D"qv" type=3D"button" data-qv=3D"10">Quick view</butto=
+n></div><div><h3><a href=3D"https://hashmisameer.github.io/medora/#top" cla=
+ss=3D"plink" data-open=3D"10">Digital Thermometer</a></h3><p class=3D"pack"=
+>1 unit</p></div><div class=3D"rate"><b>=E2=98=85 4.3</b>2,200 ratings</div=
+><div class=3D"buy"><div class=3D"price"><b>=E2=82=B9249</b><s>=E2=82=B9399=
+</s></div><span class=3D"slot"><button class=3D"add" type=3D"button" data-a=
+dd=3D"10">Add to cart</button></span></div></article><article class=3D"card=
+ enter" style=3D"animation-delay:450ms" data-id=3D"11"><div class=3D"thumb"=
+ data-open=3D"11"><svg viewBox=3D"0 0 120 110" aria-hidden=3D"true"><path d=
+=3D"M20 30 60 14l40 16v60l-40 16-40-16z" fill=3D"#fff" stroke=3D"#0F6E57" s=
+troke-width=3D"3" stroke-linejoin=3D"round"></path><path d=3D"M20 30l40 16 =
+40-16M60 46v60" fill=3D"none" stroke=3D"#0F6E57" stroke-width=3D"3"></path>=
+<path d=3D"M22 52l36 14v20L22 72z" fill=3D"#0F6E57"></path><text x=3D"40" y=
+=3D"74" text-anchor=3D"middle" font-family=3D"Sora,sans-serif" font-weight=
+=3D"800" font-size=3D"13" fill=3D"#fff" transform=3D"skewY(20) translate(0,=
+-14)">M</text></svg><span class=3D"off">30% off</span><button class=3D"hear=
+t" type=3D"button" data-wish=3D"11" aria-pressed=3D"false" aria-label=3D"Sa=
+ve BP Monitor"><svg width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=3D"M12 21s-7-4=
+.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z"></pat=
+h></svg></button><button class=3D"qv" type=3D"button" data-qv=3D"11">Quick =
+view</button></div><div><h3><a href=3D"https://hashmisameer.github.io/medor=
+a/#top" class=3D"plink" data-open=3D"11">BP Monitor</a></h3><p class=3D"pac=
+k">1 unit with cuff</p></div><div class=3D"rate"><b>=E2=98=85 4.5</b>690 ra=
+tings</div><div class=3D"buy"><div class=3D"price"><b>=E2=82=B91,599</b><s>=
+=E2=82=B92,299</s></div><span class=3D"slot"><button class=3D"add" type=3D"=
+button" data-add=3D"11">Add to cart</button></span></div></article><article=
+ class=3D"card enter" style=3D"animation-delay:495ms" data-id=3D"12"><div c=
+lass=3D"thumb" data-open=3D"12"><svg viewBox=3D"0 0 100 120" aria-hidden=3D=
+"true"><rect x=3D"32" y=3D"6" width=3D"36" height=3D"16" rx=3D"4" fill=3D"#=
+3E7A1F"></rect><rect x=3D"28" y=3D"20" width=3D"44" height=3D"8" rx=3D"3" f=
+ill=3D"#3E7A1F" opacity=3D".7"></rect><rect x=3D"18" y=3D"28" width=3D"64" =
+height=3D"86" rx=3D"16" fill=3D"#fff" stroke=3D"#3E7A1F" stroke-width=3D"3"=
+></rect><rect x=3D"18" y=3D"52" width=3D"64" height=3D"38" fill=3D"#3E7A1F"=
+></rect><text x=3D"50" y=3D"77" text-anchor=3D"middle" font-family=3D"Sora,=
+sans-serif" font-weight=3D"800" font-size=3D"18" fill=3D"#fff">M</text><rec=
+t x=3D"26" y=3D"34" width=3D"8" height=3D"70" rx=3D"4" fill=3D"#fff" opacit=
+y=3D".35"></rect></svg><span class=3D"off">19% off</span><button class=3D"h=
+eart" type=3D"button" data-wish=3D"12" aria-pressed=3D"false" aria-label=3D=
+"Save Calcium + D3"><svg width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" f=
+ill=3D"none" stroke=3D"currentColor" stroke-width=3D"2"><path d=3D"M12 21s-=
+7-4.4-9.3-9A5.3 5.3 0 0 1 12 6a5.3 5.3 0 0 1 9.3 6C19 16.6 12 21 12 21Z"></=
+path></svg></button><button class=3D"qv" type=3D"button" data-qv=3D"12">Qui=
+ck view</button></div><div><h3><a href=3D"https://hashmisameer.github.io/me=
+dora/#top" class=3D"plink" data-open=3D"12">Calcium + D3</a></h3><p class=
+=3D"pack">Bottle of 60 tablets</p></div><div class=3D"rate"><b>=E2=98=85 4.=
+6</b>770 ratings</div><div class=3D"buy"><div class=3D"price"><b>=E2=82=B92=
+59</b><s>=E2=82=B9320</s></div><span class=3D"slot"><button class=3D"add" t=
+ype=3D"button" data-add=3D"12">Add to cart</button></span></div></article><=
+/div>
+    </div>
+  </section>
+
+  <!-- DAILY PACK BUILDER -->
+  <section id=3D"pack" style=3D"padding-top:10px">
+    <div class=3D"wrap">
+      <div class=3D"packwrap reveal">
+        <div>
+          <span class=3D"pill-tag"><i>New</i> Build your daily pack</span>
+          <h2 style=3D"margin-top:14px">Pick your goals. We fill the week.<=
+/h2>
+          <p class=3D"lead">Choose what you want to focus on and watch your=
+ 7-day pill box fill up. Add the whole pack to your cart in one tap.</p>
+          <div class=3D"goals" id=3D"goals" role=3D"group" aria-label=3D"He=
+alth goals"><button class=3D"goal" type=3D"button" data-goal=3D"energy" ari=
+a-pressed=3D"true">Daily energy</button><button class=3D"goal" type=3D"butt=
+on" data-goal=3D"immunity" aria-pressed=3D"true">Immunity</button><button c=
+lass=3D"goal" type=3D"button" data-goal=3D"bones" aria-pressed=3D"false">St=
+rong bones</button><button class=3D"goal" type=3D"button" data-goal=3D"hear=
+t" aria-pressed=3D"false">Heart health</button><button class=3D"goal" type=
+=3D"button" data-goal=3D"skin" aria-pressed=3D"false">Skin &amp; hair</butt=
+on></div>
+          <div class=3D"packlist" id=3D"packlist"><div><span><i style=3D"--=
+c:#0F6E57"></i>Daily Multivitamin</span><span>=E2=82=B9449</span></div><div=
+><span><i style=3D"--c:#E8A520"></i>Vitamin D3 2000 IU</span><span>=E2=82=
+=B9329</span></div></div>
+          <div class=3D"packsum"><div><small style=3D"color:var(--muted);fo=
+nt-weight:600">Pack total</small><br><b id=3D"packTotal">=E2=82=B9778</b></=
+div><button class=3D"btn btn-brand magnet" type=3D"button" id=3D"addPack" s=
+tyle=3D"opacity: 1;">Add pack to cart</button></div>
+          <p class=3D"note">General wellness picks for a practice demo, not=
+ medical advice. Check with a doctor before starting supplements.</p>
+        </div>
+        <div class=3D"organizer" id=3D"organizer" aria-label=3D"Seven day p=
+ill organizer"><div class=3D"day"><b>MON</b><span class=3D"pill" style=3D"-=
+-c:#0F6E57;--dl:0ms"></span><span class=3D"pill" style=3D"--c:#E8A520;--dl:=
+0ms"></span></div><div class=3D"day"><b>TUE</b><span class=3D"pill" style=
+=3D"--c:#0F6E57;--dl:0ms"></span><span class=3D"pill" style=3D"--c:#E8A520;=
+--dl:0ms"></span></div><div class=3D"day"><b>WED</b><span class=3D"pill" st=
+yle=3D"--c:#0F6E57;--dl:0ms"></span><span class=3D"pill" style=3D"--c:#E8A5=
+20;--dl:0ms"></span></div><div class=3D"day"><b>THU</b><span class=3D"pill"=
+ style=3D"--c:#0F6E57;--dl:0ms"></span><span class=3D"pill" style=3D"--c:#E=
+8A520;--dl:0ms"></span></div><div class=3D"day"><b>FRI</b><span class=3D"pi=
+ll" style=3D"--c:#0F6E57;--dl:0ms"></span><span class=3D"pill" style=3D"--c=
+:#E8A520;--dl:0ms"></span></div><div class=3D"day"><b>SAT</b><span class=3D=
+"pill" style=3D"--c:#0F6E57;--dl:0ms"></span><span class=3D"pill" style=3D"=
+--c:#E8A520;--dl:0ms"></span></div><div class=3D"day"><b>SUN</b><span class=
+=3D"pill" style=3D"--c:#0F6E57;--dl:0ms"></span><span class=3D"pill" style=
+=3D"--c:#E8A520;--dl:0ms"></span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BENTO -->
+  <section>
+    <div class=3D"wrap">
+      <div class=3D"shead reveal"><div><h2>Why people switch to Medora</h2>=
+<p>Numbers from our practice store, made to show the layout.</p></div></div=
+>
+      <div class=3D"bento">
+        <div class=3D"bx big reveal">
+          <div><small>Average delivery time</small><div class=3D"num"><span=
+ data-count=3D"45">45</span> min</div></div>
+          <svg class=3D"route" viewBox=3D"0 0 400 180" aria-hidden=3D"true"=
+>
+            <path id=3D"roadPath" d=3D"M20 150 C 90 40, 170 200, 250 80 S 3=
+50 50, 380 30" fill=3D"none" stroke=3D"currentColor" stroke-opacity=3D".25"=
+ stroke-width=3D"10" stroke-linecap=3D"round"></path>
+            <path class=3D"road" d=3D"M20 150 C 90 40, 170 200, 250 80 S 35=
+0 50, 380 30" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"3" stro=
+ke-linecap=3D"round"></path>
+            <circle cx=3D"20" cy=3D"150" r=3D"9" fill=3D"currentColor"></ci=
+rcle>
+            <g><circle r=3D"11" fill=3D"#FF6A4D"></circle><circle r=3D"4" f=
+ill=3D"#fff"></circle><animateMotion dur=3D"4s" repeatCount=3D"indefinite" =
+rotate=3D"auto" keyPoints=3D"0;1" keyTimes=3D"0;1" calcMode=3D"spline" keyS=
+plines=3D".5 0 .5 1"><mpath href=3D"#roadPath"></mpath></animateMotion></g>
+            <path d=3D"M372 8c-10 0-17 7-17 16 0 12 17 26 17 26s17-14 17-26=
+c0-9-7-16-17-16Z" fill=3D"currentColor"></path><circle cx=3D"372" cy=3D"24"=
+ r=3D"6" fill=3D"#0F6E57"></circle>
+          </svg>
+          <h3>From pharmacy shelf to your door, tracked live.</h3>
+        </div>
+        <div class=3D"bx reveal"><div class=3D"pulse"><svg width=3D"22" hei=
+ght=3D"22" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stro=
+ke-width=3D"2"><path d=3D"M12 3 4 6v6c0 4.4 3.4 8.3 8 9 4.6-.7 8-4.6 8-9V6l=
+-8-3Z"></path><path d=3D"m9 12 2 2 4-4"></path></svg></div><div><div class=
+=3D"num"><span data-count=3D"100">100</span>%</div><small>Genuine, batch-ch=
+ecked stock</small></div></div>
+        <div class=3D"bx reveal"><div class=3D"bars" aria-hidden=3D"true"><=
+i style=3D"height:40%"></i><i style=3D"height:65%;animation-delay:.3s"></i>=
+<i style=3D"height:50%;animation-delay:.6s"></i><i style=3D"height:85%;anim=
+ation-delay:.9s"></i><i style=3D"height:70%;animation-delay:1.2s"></i></div=
+><div><div class=3D"num"><span data-count=3D"12000">12,000</span>+</div><sm=
+all>Products in stock</small></div></div>
+        <div class=3D"bx wide reveal">
+          <h3>Pharmacist on chat</h3>
+          <div class=3D"bubble me">Can I take Vitamin D3 with my calcium ta=
+blet?</div>
+          <div class=3D"bubble">Yes, they work well together. Take both aft=
+er a meal.</div>
+          <div class=3D"typing" aria-label=3D"Pharmacist is typing"><i></i>=
+<i></i><i></i></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOW -->
+  <section>
+    <div class=3D"wrap">
+      <div class=3D"shead reveal"><div><h2>How Medora works</h2><p>Three st=
+eps from search to your doorstep.</p></div></div>
+      <div class=3D"how">
+        <div class=3D"hw reveal"><span class=3D"ic"><svg width=3D"22" heigh=
+t=3D"22" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke=
+-width=3D"2"><circle cx=3D"11" cy=3D"11" r=3D"7"></circle><path d=3D"m20 20=
+-4-4"></path></svg></span><h3>Search or upload</h3><p>Find products by name=
+, or upload a prescription and we build the cart for you.</p></div>
+        <div class=3D"hw reveal"><span class=3D"ic"><svg width=3D"22" heigh=
+t=3D"22" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke=
+-width=3D"2"><path d=3D"M12 3 4 6v6c0 4.4 3.4 8.3 8 9 4.6-.7 8-4.6 8-9V6l-8=
+-3Z"></path><path d=3D"m9 12 2 2 4-4"></path></svg></span><h3>Pharmacist ch=
+ecks</h3><p>Every prescription order is reviewed before it is packed.</p></=
+div>
+        <div class=3D"hw reveal"><span class=3D"ic"><svg width=3D"22" heigh=
+t=3D"22" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke=
+-width=3D"2"><path d=3D"M3 7h11v9H3zM14 10h4l3 3v3h-7z"></path><circle cx=
+=3D"7" cy=3D"18" r=3D"1.6"></circle><circle cx=3D"17" cy=3D"18" r=3D"1.6"><=
+/circle></svg></span><h3>Track and receive</h3><p>Live order tracking from =
+packing to delivery, with updates on WhatsApp.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section>
+    <div class=3D"wrap">
+      <div class=3D"shead reveal"><div><h2>What customers say</h2><p>Sample=
+ reviews for this practice store.</p></div></div>
+      <div class=3D"reviews">
+        <div class=3D"rv reveal"><span class=3D"stars">=E2=98=85=E2=98=85=
+=E2=98=85=E2=98=85=E2=98=85</span><p>=E2=80=9COrdered vitamins at night and=
+ they arrived before lunch. Packing was neat and the bill matched exactly.=
+=E2=80=9D</p><div class=3D"who"><i style=3D"--c:#0F6E57">AK</i><div>Sample =
+customer<small>Noida</small></div></div></div>
+        <div class=3D"rv reveal"><span class=3D"stars">=E2=98=85=E2=98=85=
+=E2=98=85=E2=98=85=E2=98=85</span><p>=E2=80=9CThe prescription upload is so=
+ easy. A pharmacist called to confirm the dosage before sending.=E2=80=9D</=
+p><div class=3D"who"><i style=3D"--c:#FF6A4D">RS</i><div>Sample customer<sm=
+all>Delhi</small></div></div></div>
+        <div class=3D"rv reveal"><span class=3D"stars">=E2=98=85=E2=98=85=
+=E2=98=85=E2=98=85=E2=98=86</span><p>=E2=80=9CGood prices on devices. Track=
+ing on WhatsApp is the best part, I always know where my order is.=E2=80=9D=
+</p><div class=3D"who"><i style=3D"--c:#2F4A7A">PM</i><div>Sample customer<=
+small>Gurugram</small></div></div></div>
+      </div>
+      <p class=3D"demo-note">These reviews are written examples for a pract=
+ice design, not real customer feedback.</p>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section id=3D"faq">
+    <div class=3D"wrap faq">
+      <div class=3D"side reveal"><h2>Questions, answered</h2><p>Can't find =
+what you need? Our pharmacists are a chat away.</p></div>
+      <div>
+        <details open=3D""><summary>How fast is delivery?<i>+</i></summary>=
+<p>Most orders in the city arrive the same day. Other locations usually tak=
+e 2 to 4 days.</p></details>
+        <details><summary>Do I need a prescription?<i>+</i></summary><p>Pre=
+scription medicines are only dispatched after a valid prescription is uploa=
+ded and checked by a pharmacist.</p></details>
+        <details><summary>Can I return a product?<i>+</i></summary><p>Unope=
+ned products can be returned within 7 days. Some items, like opened medicin=
+es, cannot be returned for safety reasons.</p></details>
+        <details><summary>Which payment methods work?<i>+</i></summary><p>U=
+PI, cards, net banking and cash on delivery.</p></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRUST -->
+  <section style=3D"padding-top:0">
+    <div class=3D"wrap trust">
+      <div class=3D"tr reveal"><span class=3D"ic"><svg width=3D"20" height=
+=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2"><path d=3D"M12 3 4 6v6c0 4.4 3.4 8.3 8 9 4.6-.7 8-4.6 8-9V6l-8-=
+3Z"></path></svg></span><div><b>Genuine brands</b><small>Sourced from autho=
+rised distributors</small></div></div>
+      <div class=3D"tr reveal"><span class=3D"ic"><svg width=3D"20" height=
+=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2"><rect x=3D"3" y=3D"6" width=3D"18" height=3D"13" rx=3D"2"></rec=
+t><path d=3D"M3 10h18"></path></svg></span><div><b>Secure payments</b><smal=
+l>UPI, cards and COD</small></div></div>
+      <div class=3D"tr reveal"><span class=3D"ic"><svg width=3D"20" height=
+=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2"><path d=3D"M3 12a9 9 0 1 0 3-6.7L3 8"></path><path d=3D"M3 3v5h=
+5"></path></svg></span><div><b>Easy returns</b><small>7-day return window</=
+small></div></div>
+      <div class=3D"tr reveal"><span class=3D"ic"><svg width=3D"20" height=
+=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2"><path d=3D"M4 5h16v11H8l-4 4z"></path></svg></span><div><b>Phar=
+macist support</b><small>Chat 9 am to 9 pm</small></div></div>
+    </div>
+  </section>
+
+  <!-- NEWSLETTER -->
+  <section style=3D"padding-top:0">
+    <div class=3D"wrap">
+      <div class=3D"news reveal">
+        <div class=3D"capsule" aria-hidden=3D"true"></div>
+        <div><h2>Health tips and offers, once a week</h2><p>No spam. Unsubs=
+cribe anytime.</p></div>
+        <form id=3D"newsForm"><label class=3D"sr" for=3D"nemail">Email addr=
+ess</label><input id=3D"nemail" type=3D"email" placeholder=3D"you@example.c=
+om" required=3D""><button class=3D"btn btn-brand" type=3D"submit" style=3D"=
+padding:10px 18px">Subscribe</button></form>
+      </div>
+    </div>
+  </section>
+</main>
+
+
+
+
+<div class=3D"sticky-buy" id=3D"stickyBuy" aria-hidden=3D"true"><div class=
+=3D"wrap" id=3D"sbWrap"></div></div>
+
+<footer>
+  <div class=3D"wrap">
+    <div class=3D"fgrid">
+      <div><a class=3D"logo" href=3D"https://hashmisameer.github.io/medora/=
+#top" data-home=3D""><span class=3D"mark"><i></i></span><span>Med<b>ora</b>=
+</span></a><p class=3D"about">A practice e-commerce design for an online ph=
+armacy. Brand, products and reviews are fictional.</p></div>
+      <div><h4>Shop</h4><ul><li><a href=3D"https://hashmisameer.github.io/m=
+edora/#shop">Vitamins</a></li><li><a href=3D"https://hashmisameer.github.io=
+/medora/#shop">Pain relief</a></li><li><a href=3D"https://hashmisameer.gith=
+ub.io/medora/#shop">Skin care</a></li><li><a href=3D"https://hashmisameer.g=
+ithub.io/medora/#shop">Devices</a></li></ul></div>
+      <div><h4>Help</h4><ul><li><a href=3D"https://hashmisameer.github.io/m=
+edora/#faq">FAQ</a></li><li><a href=3D"https://hashmisameer.github.io/medor=
+a/#faq">Returns</a></li><li><a href=3D"https://hashmisameer.github.io/medor=
+a/#faq">Delivery</a></li><li><a href=3D"https://hashmisameer.github.io/medo=
+ra/#faq">Payments</a></li></ul></div>
+      <div><h4>Company</h4><ul><li><a href=3D"https://hashmisameer.github.i=
+o/medora/#top">About</a></li><li><a href=3D"https://hashmisameer.github.io/=
+medora/#top">Careers</a></li><li><a href=3D"https://hashmisameer.github.io/=
+medora/#top">Privacy</a></li><li><a href=3D"https://hashmisameer.github.io/=
+medora/#top">Terms</a></li></ul></div>
+    </div>
+    <div class=3D"fbot"><span>=C2=A9 2026 Medora (demo)</span><span>Practic=
+e project. No real orders or payments.</span></div>
+  </div>
+</footer>
+
+<div class=3D"scrim" id=3D"scrim"></div>
+<aside class=3D"drawer" id=3D"drawer" aria-label=3D"Cart" aria-hidden=3D"tr=
+ue">
+  <div class=3D"dh"><h3>Your cart</h3><button class=3D"ibtn" type=3D"button=
+" id=3D"closeCart" aria-label=3D"Close cart">=E2=9C=95</button></div>
+  <div class=3D"dl" id=3D"cartList"><p class=3D"empty">Your cart is empty.<=
+br>Add something from best sellers.</p></div>
+  <div class=3D"df" id=3D"cartFoot"></div>
+</aside>
+<div class=3D"modal" id=3D"modal" aria-hidden=3D"true">
+  <div class=3D"mbox" role=3D"dialog" aria-modal=3D"true" aria-labelledby=
+=3D"mTitle">
+    <button class=3D"ibtn mclose" type=3D"button" id=3D"mClose" aria-label=
+=3D"Close quick view">=E2=9C=95</button>
+    <div class=3D"mart" id=3D"mArt"></div>
+    <div class=3D"minfo" id=3D"mInfo"></div>
+  </div>
+</div>
+<button class=3D"fcart" type=3D"button" id=3D"fcart" aria-label=3D"Open car=
+t"><span id=3D"fcText">0 items =C2=B7 =E2=82=B90</span><span class=3D"go">V=
+iew cart</span></button>
+<div class=3D"toast" id=3D"toast" role=3D"status" aria-live=3D"polite"></di=
+v>
+
+
+
+
+
+</body></html>
+------MultipartBoundary--J3GHsNUTfnx4ofbx7O9c23wX6e2HNyQRl5MlN7l6QX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2") format("woff2")=
+; unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+3=
+04, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20A=
+B, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2") format("woff2"); u=
+nicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+3=
+04, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+22=
+15, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2") format("woff2")=
+; unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+3=
+04, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20A=
+B, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 500; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2") format("woff2"); u=
+nicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+3=
+04, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+22=
+15, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2") format("woff2")=
+; unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+3=
+04, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20A=
+B, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2") format("woff2"); u=
+nicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+3=
+04, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+22=
+15, U+FEFF, U+FFFD; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko70yyygA.woff2") format("woff2")=
+; unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, =
+U+FE2E-FE2F; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko50yyygA.woff2") format("woff2")=
+; unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1=
+AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;=
+ }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko40yyygA.woff2") format("woff2")=
+; unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+3=
+04, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20A=
+B, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Plus Jakarta Sans"; font-style: normal; font-wei=
+ght: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/plusjak=
+artasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2") format("woff2"); u=
+nicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+3=
+04, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+22=
+15, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 500; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5=
+wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwWa-xsaQ.woff2") format("woff2"); unicode=
+-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308=
+, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD=
+-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 500; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5=
+wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-x.woff2") format("woff2"); unicode-ra=
+nge: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308=
+, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEF=
+F, U+FFFD; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 600; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5=
+wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwWa-xsaQ.woff2") format("woff2"); unicode=
+-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308=
+, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD=
+-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 600; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5=
+wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-x.woff2") format("woff2"); unicode-ra=
+nge: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308=
+, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEF=
+F, U+FFFD; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 700; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5=
+wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwWa-xsaQ.woff2") format("woff2"); unicode=
+-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308=
+, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD=
+-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 700; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5=
+wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-x.woff2") format("woff2"); unicode-ra=
+nge: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308=
+, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEF=
+F, U+FFFD; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 800; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5=
+wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwWa-xsaQ.woff2") format("woff2"); unicode=
+-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308=
+, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD=
+-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Sora; font-style: normal; font-weight: 800; font-=
+display: swap; src: url("https://fonts.gstatic.com/s/sora/v17/xMQ9uFFYT72X5=
+wkB_18qmnndmSdSnh2BAfO5mnuyOo1lfiQwV6-x.woff2") format("woff2"); unicode-ra=
+nge: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308=
+, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEF=
+F, U+FFFD; }
+------MultipartBoundary--J3GHsNUTfnx4ofbx7O9c23wX6e2HNyQRl5MlN7l6QX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e6925d5c-1fb4-4dd0-b46e-cd7cb1abce81@mhtml.blink
+
+@charset "utf-8";
+
+:root { --bg: #F5F8F7; --surface: #FFFFFF; --ink: #0E2A23; --muted: #5B6E68=
+; --line: #E2EAE6; --brand: #0F6E57; --brand-ink: #FFFFFF; --brand-2: #E4F2=
+EC; --accent: #FF6A4D; --accent-soft: #FFE8E2; --gold: #E8A520; --shadow: 0=
+ 18px 40px -22px rgba(14,42,35,.35); --f-display: "Sora",system-ui,-apple-s=
+ystem,"Segoe UI",sans-serif; --f-body: "Plus Jakarta Sans",system-ui,-apple=
+-system,"Segoe UI",sans-serif; --r: 18px; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme=3D"light"]) { --bg: #0A1412; --surface: #11201C; --=
+ink: #E6F1EC; --muted: #93A8A0; --line: #22342F; --brand: #38C79C; --brand-=
+ink: #06281F; --brand-2: #123A30; --accent: #FF7C62; --accent-soft: #3A1F19=
+; --gold: #F2B94A; --shadow: 0 18px 40px -22px rgba(0,0,0,.8); color-scheme=
+: dark; }
+}
+
+:root[data-theme=3D"dark"] { --bg: #0A1412; --surface: #11201C; --ink: #E6F=
+1EC; --muted: #93A8A0; --line: #22342F; --brand: #38C79C; --brand-ink: #062=
+81F; --brand-2: #123A30; --accent: #FF7C62; --accent-soft: #3A1F19; --gold:=
+ #F2B94A; --shadow: 0 18px 40px -22px rgba(0,0,0,.8); color-scheme: dark; }
+
+* { box-sizing: border-box; }
+
+[hidden] { display: none !important; }
+
+html { scroll-behavior: smooth; }
+
+body { margin: 0px; background: var(--bg); color: var(--ink); font-family: =
+var(--f-body); font-size: 15px; line-height: 1.6; }
+
+.wrap { max-width: 1200px; margin: 0px auto; padding-inline: 18px; }
+
+h1, h2, h3 { font-family: var(--f-display); margin: 0px; line-height: 1.1; =
+letter-spacing: -0.02em; text-wrap: balance; }
+
+p { margin: 0px; }
+
+a { color: inherit; }
+
+button { font: inherit; color: inherit; cursor: pointer; }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; bor=
+der-radius: 8px; }
+
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: =
+rect(0px, 0px, 0px, 0px); }
+
+.announce { background: var(--brand); color: var(--brand-ink); font-size: 0=
+.82rem; font-weight: 600; overflow: hidden; white-space: nowrap; }
+
+.announce .track { display: inline-flex; gap: 48px; padding: 8px 0px; anima=
+tion: 28s linear 0s infinite normal none running marquee; }
+
+.announce span::before { content: "=E2=9C=9A"; margin-right: 10px; opacity:=
+ 0.7; }
+
+@keyframes marquee {=20
+  100% { transform: translateX(-50%); }
+}
+
+header { position: sticky; top: env(safe-area-inset-top,0px); z-index: 30; =
+background: color-mix(in srgb,var(--surface) 92%,transparent); backdrop-fil=
+ter: blur(12px); border-bottom: 1px solid var(--line); transition: box-shad=
+ow 0.3s; }
+
+header.scrolled { box-shadow: var(--shadow); }
+
+.hbar { display: flex; align-items: center; gap: 18px; padding-block: 14px;=
+ transition: padding 0.3s; }
+
+header.scrolled .hbar { padding-block: 9px; }
+
+.logo { display: flex; align-items: center; gap: 9px; text-decoration: none=
+; font: 800 1.35rem var(--f-display); letter-spacing: -0.03em; flex: 0 0 au=
+to; }
+
+.logo .mark { width: 34px; height: 34px; border-radius: 11px; background: v=
+ar(--brand); display: grid; place-items: center; position: relative; overfl=
+ow: hidden; }
+
+.logo .mark i { width: 18px; height: 8px; border-radius: 8px; background: l=
+inear-gradient(90deg,var(--brand-ink) 50%,var(--accent) 50%); transform: ro=
+tate(-35deg); }
+
+.logo b { color: var(--brand); }
+
+.search { flex: 1 1 0%; display: flex; align-items: center; border: 1.5px s=
+olid var(--line); border-radius: 999px; background: var(--bg); min-width: 0=
+px; transition: border-color 0.2s, box-shadow 0.2s; }
+
+.search:focus-within { border-color: var(--brand); box-shadow: 0 0 0 4px va=
+r(--brand-2); }
+
+.search select { border-top: 0px; border-bottom: 0px; border-left: 0px; bor=
+der-image: none; background: transparent; padding: 10px 4px 10px 16px; font=
+: 600 .85rem var(--f-body); color: var(--ink); border-right: 1px solid var(=
+--line); max-width: 130px; }
+
+.search input { flex: 1 1 0%; border: 0px; background: transparent; padding=
+: 10px 14px; font: inherit; color: var(--ink); min-width: 0px; outline: non=
+e; }
+
+.search button { border: 0px; background: var(--brand); color: var(--brand-=
+ink); border-radius: 999px; margin: 4px; padding: 8px 16px; font-weight: 70=
+0; font-size: 0.85rem; }
+
+.hicons { display: flex; gap: 6px; flex: 0 0 auto; }
+
+.ibtn { position: relative; width: 42px; height: 42px; border-radius: 12px;=
+ border: 1px solid var(--line); background: var(--surface); display: grid; =
+place-items: center; transition: transform 0.2s, border-color 0.2s; }
+
+.ibtn:hover { border-color: var(--brand); transform: translateY(-1px); }
+
+.badge { position: absolute; top: -6px; right: -6px; min-width: 20px; heigh=
+t: 20px; padding: 0px 5px; border-radius: 999px; background: var(--accent);=
+ color: rgb(255, 255, 255); font: 700 .7rem var(--f-body); display: grid; p=
+lace-items: center; border: 2px solid var(--surface); }
+
+.badge.bump { animation: 0.5s cubic-bezier(0.3, 1.6, 0.5, 1) 0s 1 normal no=
+ne running bump; }
+
+@keyframes bump {=20
+  40% { transform: scale(1.45); }
+}
+
+nav.cats { border-top: 1px solid var(--line); }
+
+nav.cats ul { list-style: none; margin: 0px; padding: 0px; display: flex; g=
+ap: 4px; overflow-x: auto; scrollbar-width: none; }
+
+nav.cats a { display: block; padding: 10px 14px; text-decoration: none; fon=
+t-weight: 600; font-size: 0.86rem; color: var(--muted); white-space: nowrap=
+; position: relative; }
+
+nav.cats a::after { content: ""; position: absolute; left: 14px; right: 14p=
+x; bottom: 4px; height: 2px; border-radius: 2px; background: var(--brand); =
+transform: scaleX(0); transition: transform 0.25s; }
+
+nav.cats a:hover { color: var(--ink); }
+
+nav.cats a:hover::after { transform: scaleX(1); }
+
+@media (max-width: 760px) {
+  .hbar { flex-wrap: wrap; }
+  .search { order: 3; flex-basis: 100%; }
+  .search select { display: none; }
+  .logo { flex: 1 1 0%; }
+}
+
+.hero { padding-block: 44px 28px; }
+
+.hero .grid { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 36p=
+x; align-items: center; }
+
+.pill-tag { display: inline-flex; align-items: center; gap: 8px; padding: 6=
+px 12px 6px 6px; border-radius: 999px; background: var(--brand-2); color: v=
+ar(--brand); font-weight: 700; font-size: 0.8rem; }
+
+.pill-tag i { font-style: normal; background: var(--brand); color: var(--br=
+and-ink); border-radius: 999px; padding: 2px 9px; }
+
+.hero h1 { font-size: clamp(2.3rem, 5.4vw, 4rem); font-weight: 800; margin-=
+top: 18px; }
+
+.hero h1 em { font-style: normal; color: var(--brand); position: relative; =
+white-space: nowrap; }
+
+.hero h1 em::after { content: ""; position: absolute; left: 0px; right: 0px=
+; bottom: 0.06em; height: 0.22em; border-radius: 6px; background: var(--acc=
+ent); opacity: 0.35; z-index: -1; transform-origin: left center; animation:=
+ 1s ease 0.5s 1 normal both running grow; }
+
+@keyframes grow {=20
+  0% { transform: scaleX(0); }
+}
+
+.hero .lede { margin-top: 16px; color: var(--muted); font-size: 1.08rem; ma=
+x-width: 48ch; }
+
+.ctas { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 26px; }
+
+.btn { display: inline-flex; align-items: center; gap: 9px; border-radius: =
+999px; padding: 13px 22px; font-weight: 700; text-decoration: none; border:=
+ 1.5px solid transparent; transition: transform 0.2s, box-shadow 0.2s, back=
+ground 0.2s; }
+
+.btn-brand { background: var(--brand); color: var(--brand-ink); }
+
+.btn-brand:hover { transform: translateY(-2px); box-shadow: 0 12px 24px -10=
+px var(--brand); }
+
+.btn-line { border-color: var(--line); background: var(--surface); }
+
+.btn-line:hover { border-color: var(--ink); }
+
+.perks { display: flex; gap: 22px; flex-wrap: wrap; margin-top: 28px; color=
+: var(--muted); font-size: 0.86rem; font-weight: 600; }
+
+.perks span { display: inline-flex; align-items: center; gap: 7px; }
+
+.perks svg { color: var(--brand); }
+
+.stage { position: relative; aspect-ratio: 1 / 0.92; max-width: 100%; borde=
+r-radius: 32px; background: radial-gradient(circle at 30% 30%,var(--brand-2=
+),transparent 60%),linear-gradient(160deg,var(--surface),var(--bg)); border=
+: 1px solid var(--line); overflow: hidden; }
+
+.blob { position: absolute; border-radius: 50%; filter: blur(2px); }
+
+.b1 { width: 58%; aspect-ratio: 1 / 1; left: 21%; top: 16%; background: var=
+(--brand); opacity: 0.12; }
+
+.capsule { position: absolute; width: var(--w,120px); height: calc(var(--w,=
+120px)*.42); border-radius: 999px; background: linear-gradient(90deg,var(--=
+c1) 50%,var(--c2) 50%); box-shadow: rgba(0, 0, 0, 0.12) 0px -8px 14px inset=
+, rgba(255, 255, 255, 0.45) 0px 6px 10px inset, rgba(0, 0, 0, 0.4) 0px 18px=
+ 30px -16px; transform: rotate(var(--rot)); animation: floaty var(--d,7s) e=
+ase-in-out infinite; }
+
+.capsule::after { content: ""; position: absolute; left: 12%; top: 18%; wid=
+th: 30%; height: 18%; border-radius: 999px; background: rgba(255, 255, 255,=
+ 0.55); }
+
+@keyframes floaty {=20
+  50% { transform: rotate(var(--rot)) translateY(-14px); }
+}
+
+.tablet { position: absolute; width: var(--w,58px); aspect-ratio: 1 / 1; bo=
+rder-radius: 50%; background: var(--surface); box-shadow: rgba(0, 0, 0, 0.0=
+8) 0px -6px 10px inset, rgba(0, 0, 0, 0.35) 0px 14px 24px -14px; animation:=
+ 8s ease-in-out 0s infinite normal none running floaty; --rot: 0deg; }
+
+.tablet::after { content: ""; position: absolute; left: 18%; right: 18%; to=
+p: 48%; height: 3px; border-radius: 2px; background: var(--line); }
+
+.ordercard { position: absolute; left: 7%; bottom: 8%; width: min(270px, 78=
+%); background: var(--surface); border: 1px solid var(--line); border-radiu=
+s: 18px; padding: 14px 16px; box-shadow: var(--shadow); animation: 0.8s eas=
+e 0.3s 1 normal both running rise; }
+
+@keyframes rise {=20
+  0% { opacity: 0; transform: translateY(20px); }
+}
+
+.ordercard .t { display: flex; justify-content: space-between; font-size: 0=
+.78rem; color: var(--muted); font-weight: 600; }
+
+.ordercard b { display: block; font-family: var(--f-display); margin: 4px 0=
+px 10px; }
+
+.steps-mini { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6p=
+x; }
+
+.steps-mini i { height: 6px; border-radius: 6px; background: var(--line); o=
+verflow: hidden; position: relative; }
+
+.steps-mini i.done { background: var(--brand); }
+
+.steps-mini i.now::after { content: ""; position: absolute; inset: 0px; bac=
+kground: var(--brand); animation: 2.4s ease-in-out 0s infinite normal none =
+running load; transform-origin: left center; }
+
+@keyframes load {=20
+  0% { transform: scaleX(0); }
+  100% { transform: scaleX(1); }
+}
+
+.rx { position: absolute; right: 6%; top: 7%; background: var(--accent); co=
+lor: rgb(255, 255, 255); border-radius: 16px; padding: 10px 14px; font: 700=
+ .8rem var(--f-body); box-shadow: var(--shadow); animation: 0.8s ease 0.6s =
+1 normal both running rise; }
+
+.rx small { display: block; font-weight: 500; opacity: 0.9; }
+
+@media (max-width: 880px) {
+  .hero .grid { grid-template-columns: 1fr; }
+  .stage { aspect-ratio: 1 / 0.75; }
+}
+
+section { padding-block: 46px; }
+
+.shead { display: flex; justify-content: space-between; align-items: end; g=
+ap: 16px; margin-bottom: 22px; flex-wrap: wrap; }
+
+.shead h2 { font-size: clamp(1.5rem, 3vw, 2.1rem); font-weight: 800; }
+
+.shead p { color: var(--muted); margin-top: 6px; }
+
+.link { font-weight: 700; color: var(--brand); text-decoration: none; }
+
+.link:hover { text-decoration: underline; }
+
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+  .reveal { animation-duration: auto; animation-timing-function: linear; an=
+imation-delay: 0s; animation-iteration-count: 1; animation-direction: norma=
+l; animation-fill-mode: backwards; animation-play-state: running; animation=
+-name: revealIn; animation-timeline: view(); animation-range: entry entry 3=
+5%; }
+  @keyframes revealIn {=20
+  0% { opacity: 0; transform: translateY(28px); }
+}
+}
+}
+
+.catgrid { display: grid; grid-template-columns: repeat(8, 1fr); gap: 12px;=
+ }
+
+.cat { background: var(--surface); border: 1px solid var(--line); border-ra=
+dius: var(--r); padding: 16px 8px 14px; display: grid; justify-items: cente=
+r; gap: 10px; text-align: center; text-decoration: none; font-weight: 600; =
+font-size: 0.82rem; transition: transform 0.25s, box-shadow 0.25s, border-c=
+olor 0.25s; }
+
+.cat .ci { width: 54px; height: 54px; border-radius: 16px; display: grid; p=
+lace-items: center; background: var(--tint); color: var(--tone); transition=
+: transform 0.35s cubic-bezier(0.3, 1.6, 0.5, 1); }
+
+.cat:hover { transform: translateY(-4px); box-shadow: var(--shadow); border=
+-color: transparent; }
+
+.cat:hover .ci { transform: rotate(-8deg) scale(1.08); }
+
+@media (max-width: 980px) {
+  .catgrid { grid-template-columns: repeat(4, 1fr); }
+}
+
+@media (max-width: 480px) {
+  .catgrid { grid-template-columns: repeat(3, 1fr); }
+}
+
+.slider { position: relative; border-radius: 26px; overflow: hidden; min-he=
+ight: 200px; }
+
+.slide { position: absolute; inset: 0px; display: grid; grid-template-colum=
+ns: 1.3fr 1fr; align-items: center; padding: 30px 36px; gap: 16px; opacity:=
+ 0; transform: translateX(30px); transition: opacity 0.6s, transform 0.6s; =
+pointer-events: none; }
+
+.slide.on { opacity: 1; transform: none; pointer-events: auto; position: re=
+lative; }
+
+.slide h3 { font-size: clamp(1.4rem, 3vw, 2.2rem); font-weight: 800; }
+
+.slide p { margin-top: 8px; opacity: 0.85; }
+
+.slide .code { display: inline-block; margin-top: 14px; padding: 6px 12px; =
+border: 1.5px dashed; border-radius: 10px; font-weight: 700; letter-spacing=
+: 0.06em; }
+
+.slide .art { justify-self: center; font-style: ; font-variant-ligatures: ;=
+ font-variant-caps: ; font-variant-numeric: ; font-variant-east-asian: ; fo=
+nt-variant-alternates: ; font-variant-position: ; font-variant-emoji: ; fon=
+t-weight: ; font-stretch: ; font-size: ; font-family: ; font-optical-sizing=
+: ; font-size-adjust: ; font-kerning: ; font-feature-settings: ; font-varia=
+tion-settings: ; font-language-override: ; line-height: 1; opacity: 0.95; }
+
+.s1 { background: linear-gradient(120deg,var(--brand),#0b4f3f); color: rgb(=
+255, 255, 255); }
+
+.s2 { background: linear-gradient(120deg, rgb(255, 106, 77), rgb(226, 73, 4=
+4)); color: rgb(255, 255, 255); }
+
+.s3 { background: linear-gradient(120deg, rgb(47, 74, 122), rgb(29, 49, 87)=
+); color: rgb(255, 255, 255); }
+
+.dots { position: absolute; left: 36px; bottom: 16px; display: flex; gap: 7=
+px; }
+
+.dots button { width: 9px; height: 9px; border-radius: 9px; border: 0px; ba=
+ckground: rgba(255, 255, 255, 0.45); padding: 0px; transition: width 0.3s, =
+background 0.3s; }
+
+.dots button.on { width: 26px; background: rgb(255, 255, 255); }
+
+@media (max-width: 640px) {
+  .slide { grid-template-columns: 1fr; padding: 24px 22px 44px; }
+  .slide .art { display: none; }
+  .dots { left: 22px; }
+}
+
+.tabs { display: flex; gap: 8px; flex-wrap: wrap; }
+
+.tab { border: 1px solid var(--line); background: var(--surface); border-ra=
+dius: 999px; padding: 8px 15px; font-weight: 600; font-size: 0.85rem; trans=
+ition: background 0.2s, color 0.2s, border-color 0.2s; }
+
+.tab[aria-pressed=3D"true"] { background: var(--ink); color: var(--bg); bor=
+der-color: var(--ink); }
+
+.pgrid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-r=
+adius: var(--r); padding: 12px; display: flex; flex-direction: column; gap:=
+ 10px; position: relative; transition: transform 0.25s, box-shadow 0.25s; m=
+in-width: 0px; }
+
+.card:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+
+.card.enter { animation: 0.45s ease 0s 1 normal backwards running cardIn; }
+
+@keyframes cardIn {=20
+  0% { opacity: 0; transform: scale(0.94) translateY(10px); }
+}
+
+.thumb { aspect-ratio: 1 / 0.82; border-radius: 14px; background: var(--bg)=
+; display: grid; place-items: center; overflow: hidden; position: relative;=
+ }
+
+.thumb svg { width: 62%; height: auto; transition: transform 0.45s cubic-be=
+zier(0.3, 1.5, 0.5, 1); }
+
+.card:hover .thumb svg { transform: scale(1.08) rotate(-4deg); }
+
+.off { position: absolute; left: 10px; top: 10px; background: var(--accent)=
+; color: rgb(255, 255, 255); font-weight: 700; font-size: 0.72rem; padding:=
+ 3px 8px; border-radius: 8px; }
+
+.heart { position: absolute; right: 8px; top: 8px; width: 34px; height: 34p=
+x; border-radius: 50%; border: 0px; background: var(--surface); display: gr=
+id; place-items: center; color: var(--muted); box-shadow: rgba(0, 0, 0, 0.3=
+) 0px 4px 12px -6px; }
+
+.heart[aria-pressed=3D"true"] { color: var(--accent); }
+
+.heart[aria-pressed=3D"true"] svg { animation: 0.45s ease 0s 1 normal none =
+running bump; fill: currentcolor; }
+
+.card h3 { font: 700 .95rem var(--f-body); letter-spacing: 0px; }
+
+.pack { font-size: 0.78rem; color: var(--muted); }
+
+.rate { display: flex; align-items: center; gap: 6px; font-size: 0.78rem; c=
+olor: var(--muted); }
+
+.rate b { display: inline-flex; align-items: center; gap: 3px; background: =
+var(--brand-2); color: var(--brand); padding: 1px 7px; border-radius: 6px; =
+font-size: 0.74rem; }
+
+.buy { margin-top: auto; display: flex; align-items: center; justify-conten=
+t: space-between; gap: 8px; }
+
+.price b { font: 800 1.08rem var(--f-display); }
+
+.price s { color: var(--muted); font-size: 0.8rem; margin-left: 5px; }
+
+.add { border: 0px; background: var(--brand); color: var(--brand-ink); bord=
+er-radius: 12px; padding: 9px 14px; font-weight: 700; font-size: 0.82rem; t=
+ransition: transform 0.15s; }
+
+.add:active { transform: scale(0.94); }
+
+.qty { display: inline-flex; align-items: center; border: 1.5px solid var(-=
+-brand); border-radius: 12px; overflow: hidden; }
+
+.qty button { border: 0px; background: var(--brand-2); color: var(--brand);=
+ width: 30px; height: 34px; font-weight: 800; }
+
+.qty span { min-width: 28px; text-align: center; font-weight: 700; font-var=
+iant-numeric: tabular-nums; }
+
+.empty { grid-column: 1 / -1; text-align: center; color: var(--muted); padd=
+ing: 40px 0px; }
+
+@media (max-width: 980px) {
+  .pgrid { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 720px) {
+  .pgrid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .card { padding: 9px; }
+  .buy { flex-wrap: wrap; }
+  .add { flex: 1 1 0%; }
+}
+
+.how { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; cou=
+nter-reset: s 0; }
+
+.hw { background: var(--surface); border: 1px solid var(--line); border-rad=
+ius: var(--r); padding: 24px; position: relative; overflow: hidden; }
+
+.hw::before { counter-increment: s 1; content: "0" counter(s); position: ab=
+solute; right: 16px; top: 8px; font: 800 3.4rem var(--f-display); color: va=
+r(--brand-2); }
+
+.hw .ic { width: 46px; height: 46px; border-radius: 14px; background: var(-=
+-brand); color: var(--brand-ink); display: grid; place-items: center; posit=
+ion: relative; }
+
+.hw h3 { margin-top: 16px; font-size: 1.15rem; }
+
+.hw p { color: var(--muted); margin-top: 6px; font-size: 0.92rem; }
+
+@media (max-width: 760px) {
+  .how { grid-template-columns: 1fr; }
+}
+
+.reviews { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;=
+ }
+
+.rv { background: var(--surface); border: 1px solid var(--line); border-rad=
+ius: var(--r); padding: 22px; display: grid; gap: 12px; align-content: star=
+t; }
+
+.stars { color: var(--gold); letter-spacing: 2px; }
+
+.rv p { font-size: 0.95rem; }
+
+.who { display: flex; align-items: center; gap: 10px; font-weight: 700; fon=
+t-size: 0.88rem; }
+
+.who i { width: 36px; height: 36px; border-radius: 50%; display: grid; plac=
+e-items: center; font-style: normal; color: rgb(255, 255, 255); background:=
+ var(--c); }
+
+.who small { display: block; font-weight: 500; color: var(--muted); }
+
+.demo-note { font-size: 0.78rem; color: var(--muted); margin-top: 12px; }
+
+@media (max-width: 860px) {
+  .reviews { grid-template-columns: 1fr; }
+}
+
+.faq { display: grid; grid-template-columns: 0.8fr 1.2fr; gap: 30px; align-=
+items: start; }
+
+.faq h2 { font-size: clamp(1.5rem, 3vw, 2.1rem); font-weight: 800; }
+
+.faq .side p { color: var(--muted); margin-top: 8px; }
+
+details { background: var(--surface); border: 1px solid var(--line); border=
+-radius: 16px; margin-bottom: 10px; overflow: hidden; }
+
+summary { list-style: none; cursor: pointer; padding: 16px 18px; font-weigh=
+t: 700; display: flex; justify-content: space-between; gap: 12px; align-ite=
+ms: center; }
+
+summary::-webkit-details-marker { display: none; }
+
+summary i { flex: 0 0 auto; width: 26px; height: 26px; border-radius: 50%; =
+background: var(--brand-2); color: var(--brand); display: grid; place-items=
+: center; font-style: normal; transition: transform 0.3s; }
+
+details[open] summary i { transform: rotate(45deg); }
+
+details p { padding: 0px 18px 16px; color: var(--muted); }
+
+@media (max-width: 820px) {
+  .faq { grid-template-columns: 1fr; }
+}
+
+.trust { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+
+.tr { display: flex; gap: 12px; align-items: center; background: var(--surf=
+ace); border: 1px solid var(--line); border-radius: 16px; padding: 16px; }
+
+.tr .ic { width: 42px; height: 42px; border-radius: 12px; background: var(-=
+-accent-soft); color: var(--accent); display: grid; place-items: center; fl=
+ex: 0 0 auto; }
+
+.tr b { display: block; font-size: 0.9rem; }
+
+.tr small { color: var(--muted); font-size: 0.78rem; }
+
+@media (max-width: 900px) {
+  .trust { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 480px) {
+  .trust { grid-template-columns: 1fr; }
+}
+
+.news { background: var(--ink); color: var(--bg); border-radius: 28px; padd=
+ing: 34px; display: grid; grid-template-columns: 1.2fr 1fr; gap: 20px; alig=
+n-items: center; position: relative; overflow: hidden; }
+
+.news h2 { font-size: clamp(1.4rem, 3vw, 2rem); }
+
+.news p { opacity: 0.75; margin-top: 6px; }
+
+.news form { display: flex; gap: 8px; background: var(--bg); border-radius:=
+ 999px; padding: 5px; }
+
+.news input { flex: 1 1 0%; border: 0px; background: transparent; padding: =
+10px 14px; font: inherit; color: var(--ink); min-width: 0px; outline: none;=
+ }
+
+.news .capsule { right: -30px; top: -20px; --w: 130px; --c1: var(--accent);=
+ --c2: #fff; --rot: -30deg; opacity: 0.9; }
+
+@media (max-width: 760px) {
+  .news { grid-template-columns: 1fr; padding: 26px 20px; }
+  .news .capsule { display: none; }
+}
+
+footer { margin-top: 40px; border-top: 1px solid var(--line); background: v=
+ar(--surface); padding-block: 40px 24px; }
+
+.fgrid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 24px=
+; }
+
+footer h4 { margin: 0px 0px 10px; font: 700 .95rem var(--f-display); }
+
+footer ul { list-style: none; margin: 0px; padding: 0px; display: grid; gap=
+: 7px; font-size: 0.88rem; color: var(--muted); }
+
+footer ul a { text-decoration: none; }
+
+footer ul a:hover { color: var(--brand); }
+
+footer .about { color: var(--muted); font-size: 0.88rem; margin-top: 10px; =
+max-width: 34ch; }
+
+.fbot { margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--li=
+ne); display: flex; justify-content: space-between; gap: 10px; flex-wrap: w=
+rap; font-size: 0.8rem; color: var(--muted); }
+
+@media (max-width: 760px) {
+  .fgrid { grid-template-columns: 1fr 1fr; }
+}
+
+.scrim { position: fixed; inset: 0px; background: rgba(5, 15, 12, 0.45); z-=
+index: 40; opacity: 0; pointer-events: none; transition: opacity 0.3s; }
+
+.scrim.on { opacity: 1; pointer-events: auto; }
+
+.drawer { position: fixed; right: 0px; top: 0px; bottom: 0px; width: min(40=
+0px, 100%); background: var(--surface); z-index: 41; transform: translateX(=
+100%); transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1); display: =
+flex; flex-direction: column; padding-top: env(safe-area-inset-top,0px); pa=
+dding-bottom: env(safe-area-inset-bottom,0px); }
+
+.drawer.on { transform: none; }
+
+.dh { display: flex; justify-content: space-between; align-items: center; p=
+adding: 18px 20px; border-bottom: 1px solid var(--line); }
+
+.dh h3 { font-size: 1.15rem; }
+
+.dl { flex: 1 1 0%; overflow: auto; padding: 12px 20px; display: grid; gap:=
+ 12px; align-content: start; }
+
+.li { display: grid; grid-template-columns: 56px 1fr auto; gap: 12px; align=
+-items: center; }
+
+.li .th { width: 56px; height: 56px; border-radius: 12px; background: var(-=
+-bg); display: grid; place-items: center; }
+
+.li .th svg { width: 70%; }
+
+.li b { font-size: 0.88rem; display: block; }
+
+.li small { color: var(--muted); }
+
+.df { border-top: 1px solid var(--line); padding: 16px 20px; display: grid;=
+ gap: 10px; }
+
+.row { display: flex; justify-content: space-between; font-size: 0.9rem; }
+
+.row.total { font: 800 1.1rem var(--f-display); }
+
+.save { color: var(--brand); font-weight: 700; }
+
+.toast { position: fixed; left: 50%; bottom: calc(20px + env(safe-area-inse=
+t-bottom,0px)); transform: translate(-50%, 140%); background: var(--ink); c=
+olor: var(--bg); padding: 12px 18px; border-radius: 14px; font-weight: 600;=
+ font-size: 0.9rem; z-index: 60; transition: transform 0.35s cubic-bezier(0=
+.2, 0.9, 0.3, 1.3); max-width: calc(100% - 32px); }
+
+.toast.on { transform: translate(-50%, 0px); }
+
+.flyer { position: fixed; z-index: 70; width: 16px; height: 16px; border-ra=
+dius: 50%; background: var(--accent); pointer-events: none; box-shadow: 0 0=
+ 0 4px var(--accent-soft); }
+
+.search { position: relative; }
+
+.sugg { position: absolute; left: 0px; right: 0px; top: calc(100% + 8px); b=
+ackground: var(--surface); border: 1px solid var(--line); border-radius: 18=
+px; box-shadow: var(--shadow); padding: 8px; z-index: 45; opacity: 0; trans=
+form: translateY(-6px); pointer-events: none; transition: opacity 0.2s, tra=
+nsform 0.2s; max-height: 70vh; overflow: auto; }
+
+.sugg.on { opacity: 1; transform: none; pointer-events: auto; }
+
+.sg-h { font-size: 0.7rem; font-weight: 700; letter-spacing: 0.09em; text-t=
+ransform: uppercase; color: var(--muted); padding: 8px 10px 4px; }
+
+.sg { display: grid; grid-template-columns: 44px 1fr auto; gap: 12px; align=
+-items: center; padding: 8px 10px; border-radius: 12px; cursor: pointer; }
+
+.sg[aria-selected=3D"true"], .sg:hover { background: var(--brand-2); }
+
+.sg .th { width: 44px; height: 44px; border-radius: 10px; background: var(-=
+-bg); display: grid; place-items: center; }
+
+.sg .th svg { width: 70%; }
+
+.sg b { font-size: 0.9rem; display: block; font-weight: 600; }
+
+.sg small { color: var(--muted); font-size: 0.76rem; }
+
+.sg mark { background: var(--accent-soft); color: inherit; border-radius: 4=
+px; padding: 0px 2px; font-weight: 800; }
+
+.sg .pr { font: 800 .95rem var(--f-display); }
+
+.pop { display: flex; flex-wrap: wrap; gap: 6px; padding: 4px 10px 8px; }
+
+.pop button { border: 1px solid var(--line); background: var(--bg); border-=
+radius: 999px; padding: 5px 11px; font-size: 0.8rem; font-weight: 600; }
+
+.pop button:hover { border-color: var(--brand); color: var(--brand); }
+
+.sg-empty { padding: 14px 10px; color: var(--muted); font-size: 0.9rem; }
+
+.thumb, .plink { cursor: pointer; }
+
+.plink { text-decoration: none; }
+
+.plink:hover { color: var(--brand); }
+
+.story { position: relative; height: 280vh; --p: 0; --open: 0; padding: 0px=
+; }
+
+.story .stick { position: sticky; min-height: 460px; display: grid; grid-te=
+mplate-columns: 1fr 1fr; align-items: center; gap: 30px; }
+
+.story-art { position: relative; height: 100%; display: grid; place-items: =
+center; min-width: 0px; }
+
+.glow { position: absolute; width: min(460px, 90%); aspect-ratio: 1 / 1; bo=
+rder-radius: 50%; background: radial-gradient(circle,var(--brand-2) 0%,tran=
+sparent 68%); transform: scale(calc(.6 + var(--p)*.6)); }
+
+.big-cap { position: relative; width: min(340px, 72vw); aspect-ratio: 2.4 /=
+ 1; transform: rotate(calc(-30deg + var(--p)*390deg)) scale(calc(.85 + var(=
+--p)*.25)); }
+
+.half { position: absolute; top: 0px; bottom: 0px; width: 50%; box-shadow: =
+rgba(0, 0, 0, 0.14) 0px -14px 22px inset, rgba(255, 255, 255, 0.45) 0px 10p=
+x 16px inset, rgba(0, 0, 0, 0.45) 0px 30px 50px -24px; }
+
+.half.l { left: 0px; border-radius: 999px 0px 0px 999px; background: linear=
+-gradient(rgb(34, 163, 131), rgb(15, 110, 87)); transform: translateX(calc(=
+var(--open)*-70px)); }
+
+.half.r { right: 0px; border-radius: 0px 999px 999px 0px; background: linea=
+r-gradient(rgb(255, 255, 255), rgb(223, 232, 228)); transform: translateX(c=
+alc(var(--open)*70px)); }
+
+.half.l::after { content: ""; position: absolute; left: 14%; top: 16%; widt=
+h: 40%; height: 16%; border-radius: 999px; background: rgba(255, 255, 255, =
+0.5); }
+
+.grain { position: absolute; left: 50%; top: 50%; width: var(--s); height: =
+var(--s); border-radius: 50%; background: var(--c); box-shadow: rgba(0, 0, =
+0, 0.35) 0px 4px 8px -4px; transform: translate(-50%,-50%) translate(calc(v=
+ar(--open)*var(--x)),calc(var(--open)*var(--y))) scale(var(--open)); }
+
+.story-copy h2 { font-size: clamp(1.7rem, 3.6vw, 2.7rem); font-weight: 800;=
+ }
+
+.sts { display: grid; gap: 12px; }
+
+.st { display: grid; grid-template-columns: 44px 1fr; gap: 14px; padding: 1=
+6px; border-radius: 18px; border: 1px solid var(--line); background: var(--=
+surface); opacity: 0.55; transform: scale(0.97); transition: opacity 0.45s,=
+ transform 0.45s, border-color 0.45s, box-shadow 0.45s; }
+
+.st.on { opacity: 1; transform: none; border-color: var(--brand); box-shado=
+w: var(--shadow); }
+
+.st .n { width: 44px; height: 44px; border-radius: 12px; background: var(--=
+brand-2); color: var(--brand); display: grid; place-items: center; font: 80=
+0 1rem var(--f-display); transition: background 0.4s, color 0.4s; }
+
+.st.on .n { background: var(--brand); color: var(--brand-ink); }
+
+.st p { color: var(--muted); font-size: 0.9rem; margin-top: 2px; }
+
+.storybar { height: 4px; background: var(--line); border-radius: 4px; overf=
+low: hidden; margin-top: 18px; }
+
+.storybar i { display: block; height: 100%; background: var(--brand); trans=
+form-origin: left center; transform: scaleX(var(--p)); }
+
+@media (max-width: 820px) {
+  .story { height: 230vh; }
+  .story .stick { grid-template-columns: 1fr; align-content: center; gap: 6=
+px; min-height: 0px; }
+  .story-art { height: 34vh; min-height: 170px; }
+  .big-cap { width: min(240px, 60vw); }
+  .st { padding: 12px; }
+  .st:not(.on) p { display: none; }
+  .story-copy h2 { font-size: 1.4rem; margin: 8px 0px 10px !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .story { height: auto; }
+  .story .stick { position: static; height: auto; min-height: 0px; padding-=
+block: 30px; }
+}
+
+.view { padding-block: 22px 70px; }
+
+.crumb { font-size: 0.84rem; color: var(--muted); display: flex; gap: 6px; =
+flex-wrap: wrap; margin-bottom: 18px; align-items: center; }
+
+.crumb button { border: 0px; background: none; padding: 0px; color: var(--b=
+rand); font-weight: 600; }
+
+.pd { display: grid; grid-template-columns: 1.05fr 1fr; gap: 36px; align-it=
+ems: start; }
+
+.gal { display: grid; gap: 12px; position: sticky; }
+
+.gmain { aspect-ratio: 1 / 0.88; border-radius: 26px; background: radial-gr=
+adient(circle at 50% 45%,var(--brand-2),var(--bg) 70%); border: 1px solid v=
+ar(--line); display: grid; place-items: center; overflow: hidden; position:=
+ relative; }
+
+.gmain .gv { width: 58%; display: grid; place-items: center; animation: 0.5=
+s cubic-bezier(0.2, 1.2, 0.3, 1) 0s 1 normal none running gIn; }
+
+.gmain .gv svg { width: 100%; height: auto; transition: transform 0.5s cubi=
+c-bezier(0.2, 1.2, 0.3, 1); }
+
+.gmain:hover .gv svg { transform: scale(1.08); }
+
+@keyframes gIn {=20
+  0% { opacity: 0; transform: scale(0.85) rotate(-6deg); }
+}
+
+.gmain .off { left: 16px; top: 16px; font-size: 0.85rem; padding: 5px 10px;=
+ }
+
+.gthumbs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;=
+ }
+
+.gthumbs button { aspect-ratio: 1 / 1; border-radius: 14px; border: 2px sol=
+id var(--line); background: var(--bg); display: grid; place-items: center; =
+padding: 0px; transition: border-color 0.2s, transform 0.2s; overflow: hidd=
+en; }
+
+.gthumbs button:hover { transform: translateY(-2px); }
+
+.gthumbs button[aria-pressed=3D"true"] { border-color: var(--brand); }
+
+.gthumbs .gv { width: 62%; }
+
+.gthumbs svg { width: 100%; height: auto; }
+
+.info { display: grid; gap: 16px; min-width: 0px; }
+
+.info .catl { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em; =
+text-transform: uppercase; color: var(--brand); }
+
+.info h1 { font-size: clamp(1.6rem, 3.4vw, 2.4rem); font-weight: 800; }
+
+.bigprice { display: flex; align-items: baseline; gap: 10px; flex-wrap: wra=
+p; }
+
+.bigprice b { font: 800 2rem var(--f-display); }
+
+.bigprice .save { color: var(--brand); font-weight: 700; }
+
+.opt-h { font-weight: 700; font-size: 0.85rem; margin-bottom: 8px; }
+
+.opts { display: flex; gap: 8px; flex-wrap: wrap; }
+
+.opt { border: 1.5px solid var(--line); background: var(--surface); border-=
+radius: 14px; padding: 10px 14px; text-align: left; font-size: 0.85rem; fon=
+t-weight: 700; transition: border-color 0.2s, background 0.2s; position: re=
+lative; }
+
+.opt small { display: block; color: var(--muted); font-weight: 500; }
+
+.opt[aria-pressed=3D"true"] { border-color: var(--brand); background: var(-=
+-brand-2); }
+
+.opt .tagb { position: absolute; top: -9px; right: 10px; background: var(--=
+accent); color: rgb(255, 255, 255); font-size: 0.62rem; padding: 2px 7px; b=
+order-radius: 6px; }
+
+.ctarow { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+
+.ctarow .btn { flex: 1 1 0%; justify-content: center; min-width: 150px; }
+
+.btn-accent { background: var(--accent); color: rgb(255, 255, 255); }
+
+.btn-accent:hover { transform: translateY(-2px); box-shadow: 0 12px 24px -1=
+0px var(--accent); }
+
+.qty.big button { width: 40px; height: 46px; }
+
+.qty.big span { min-width: 36px; }
+
+.pin { display: flex; gap: 8px; border: 1px solid var(--line); border-radiu=
+s: 14px; padding: 6px; background: var(--surface); }
+
+.pin input { flex: 1 1 0%; border: 0px; background: transparent; padding: 8=
+px; font: inherit; color: var(--ink); outline: none; min-width: 0px; }
+
+.pin button { border: 0px; background: var(--ink); color: var(--bg); border=
+-radius: 10px; padding: 8px 14px; font-weight: 700; }
+
+.pinres { font-size: 0.85rem; font-weight: 600; min-height: 1.4em; margin-t=
+op: 6px; }
+
+.hl { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+
+.hl div { display: flex; gap: 8px; align-items: center; font-size: 0.85rem;=
+ background: var(--surface); border: 1px solid var(--line); border-radius: =
+12px; padding: 10px; }
+
+.hl svg { color: var(--brand); flex: 0 0 auto; }
+
+.ptabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); pos=
+ition: relative; overflow-x: auto; }
+
+.ptabs button { border: 0px; background: none; padding: 10px 14px; font-wei=
+ght: 700; color: var(--muted); white-space: nowrap; }
+
+.ptabs button[aria-selected=3D"true"] { color: var(--ink); }
+
+.ptabs .ink { position: absolute; bottom: 0px; height: 3px; border-radius: =
+3px; background: var(--brand); transition: left 0.3s, width 0.3s; }
+
+.ptab-body { color: var(--muted); font-size: 0.93rem; padding-top: 12px; an=
+imation: 0.35s ease 0s 1 normal none running fadeUp; }
+
+@keyframes fadeUp {=20
+  0% { opacity: 0; transform: translateY(6px); }
+}
+
+.similar { display: grid; grid-auto-flow: column; grid-auto-columns: minmax=
+(220px, 1fr); gap: 14px; overflow-x: auto; padding: 6px 2px 12px; scroll-sn=
+ap-type: x mandatory; }
+
+.similar .card { scroll-snap-align: start; }
+
+.sticky-buy { position: fixed; left: 0px; right: 0px; bottom: 0px; z-index:=
+ 36; background: var(--surface); border-top: 1px solid var(--line); box-sha=
+dow: rgba(0, 0, 0, 0.3) 0px -10px 30px -20px; padding: 10px 0 calc(10px + e=
+nv(safe-area-inset-bottom,0px)); transform: translateY(110%); transition: t=
+ransform 0.4s cubic-bezier(0.2, 1, 0.3, 1); }
+
+.sticky-buy.on { transform: none; }
+
+.sticky-buy .wrap { display: flex; align-items: center; gap: 14px; }
+
+.sticky-buy .th { width: 46px; height: 46px; border-radius: 10px; backgroun=
+d: var(--bg); display: grid; place-items: center; flex: 0 0 auto; }
+
+.sticky-buy .th svg { width: 70%; }
+
+.sticky-buy .nm { flex: 1 1 0%; min-width: 0px; }
+
+.sticky-buy .nm b { display: block; white-space: nowrap; overflow: hidden; =
+text-overflow: ellipsis; }
+
+.sticky-buy .nm span { font: 800 1rem var(--f-display); }
+
+@media (max-width: 860px) {
+  .pd { grid-template-columns: 1fr; }
+  .gal { position: static; }
+  .hl { grid-template-columns: 1fr; }
+}
+
+.stepper { display: flex; align-items: center; gap: 8px; margin-bottom: 20p=
+x; flex-wrap: wrap; }
+
+.stepper span { display: inline-flex; align-items: center; gap: 8px; font-w=
+eight: 700; font-size: 0.85rem; color: var(--muted); }
+
+.stepper span i { width: 26px; height: 26px; border-radius: 50%; display: g=
+rid; place-items: center; background: var(--line); font-style: normal; font=
+-size: 0.78rem; }
+
+.stepper span.on { color: var(--ink); }
+
+.stepper span.on i { background: var(--brand); color: var(--brand-ink); }
+
+.stepper em { flex: 0 0 28px; height: 2px; background: var(--line); }
+
+.co { display: grid; grid-template-columns: 1.3fr 0.9fr; gap: 24px; align-i=
+tems: start; }
+
+.box { background: var(--surface); border: 1px solid var(--line); border-ra=
+dius: 22px; padding: 22px; margin-bottom: 16px; }
+
+.box h3 { font-size: 1.1rem; margin-bottom: 14px; display: flex; align-item=
+s: center; gap: 10px; flex-wrap: wrap; }
+
+.box h3 .n { font-style: normal; width: 28px; height: 28px; border-radius: =
+9px; background: var(--brand-2); color: var(--brand); display: grid; place-=
+items: center; font-size: 0.85rem; }
+
+.box h3 .sample { margin-left: auto; font: 600 .8rem var(--f-body); border:=
+ 1px dashed var(--brand); color: var(--brand); background: none; border-rad=
+ius: 999px; padding: 5px 12px; }
+
+.fg { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+
+.fg .full { grid-column: 1 / -1; }
+
+.fg label { display: grid; gap: 6px; font-size: 0.8rem; font-weight: 700; }
+
+.fg input, .fg textarea { font: inherit; color: var(--ink); background: var=
+(--bg); border: 1.5px solid var(--line); border-radius: 12px; padding: 11px=
+ 12px; transition: border-color 0.2s, box-shadow 0.2s; width: 100%; }
+
+.fg textarea { min-height: 76px; resize: vertical; }
+
+.fg input:focus, .fg textarea:focus { outline: none; border-color: var(--br=
+and); box-shadow: 0 0 0 4px var(--brand-2); }
+
+.fg .err { animation: 0.35s ease 0s 1 normal none running shake; border-col=
+or: var(--accent) !important; }
+
+@keyframes shake {=20
+  25% { transform: translateX(-4px); }
+  75% { transform: translateX(4px); }
+}
+
+.slots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
+
+.slotb { border: 1.5px solid var(--line); background: var(--bg); border-rad=
+ius: 14px; padding: 12px; text-align: left; font-size: 0.85rem; transition:=
+ border-color 0.2s, background 0.2s, transform 0.2s; }
+
+.slotb b { display: block; }
+
+.slotb small { color: var(--muted); }
+
+.slotb[aria-pressed=3D"true"] { border-color: var(--brand); background: var=
+(--brand-2); transform: translateY(-2px); }
+
+.pays { display: grid; gap: 10px; }
+
+.pay { display: flex; align-items: center; gap: 12px; border: 1.5px solid v=
+ar(--line); border-radius: 14px; padding: 12px 14px; cursor: pointer; backg=
+round: var(--bg); transition: border-color 0.2s, background 0.2s; }
+
+.pay:has(input:checked) { border-color: var(--brand); background: var(--bra=
+nd-2); }
+
+.pay input { accent-color: var(--brand); width: 18px; height: 18px; flex: 0=
+ 0 auto; }
+
+.pay b { font-size: 0.92rem; }
+
+.pay small { color: var(--muted); display: block; font-size: 0.78rem; }
+
+.summary { position: sticky; }
+
+.sum-items { display: grid; gap: 12px; max-height: 280px; overflow: auto; m=
+argin-bottom: 14px; }
+
+.place { width: 100%; justify-content: center; position: relative; margin-t=
+op: 6px; }
+
+.place.loading { pointer-events: none; color: transparent !important; }
+
+.place.loading::after { content: ""; position: absolute; width: 20px; heigh=
+t: 20px; border-radius: 50%; border-top-style: ; border-top-width: ; border=
+-right-color: ; border-right-style: ; border-right-width: ; border-bottom-c=
+olor: ; border-bottom-style: ; border-bottom-width: ; border-left-color: ; =
+border-left-style: ; border-left-width: ; border-image-source: ; border-ima=
+ge-slice: ; border-image-width: ; border-image-outset: ; border-image-repea=
+t: ; border-top-color: var(--brand-ink); animation: 0.7s linear 0s infinite=
+ normal none running spin; }
+
+@keyframes spin {=20
+  100% { transform: rotate(360deg); }
+}
+
+.democard { font-size: 0.78rem; color: var(--muted); margin-top: 10px; }
+
+@media (max-width: 900px) {
+  .co { grid-template-columns: 1fr; }
+  .summary { position: static; }
+  .slots { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 480px) {
+  .fg { grid-template-columns: 1fr; }
+  .slots { grid-template-columns: 1fr; }
+}
+
+.trk { display: grid; grid-template-columns: 1.25fr 0.75fr; gap: 24px; alig=
+n-items: start; }
+
+.mapbox { position: relative; border-radius: 24px; overflow: hidden; border=
+: 1px solid var(--line); background: var(--surface); }
+
+.mapbox svg { display: block; width: 100%; height: auto; }
+
+.mapbox .blk { fill: var(--bg); }
+
+.mapbox .park { fill: var(--brand-2); }
+
+.mapbox .rd { stroke: var(--line); }
+
+.mapbox .route-bg { stroke: var(--line); }
+
+.mapbox .route-done { stroke: var(--brand); }
+
+.eta { position: absolute; left: 14px; top: 14px; background: var(--surface=
+); border: 1px solid var(--line); border-radius: 16px; padding: 10px 14px; =
+box-shadow: var(--shadow); }
+
+.eta b { font-style: ; font-variant-ligatures: ; font-variant-caps: ; font-=
+variant-east-asian: ; font-variant-alternates: ; font-variant-position: ; f=
+ont-variant-emoji: ; font-weight: ; font-stretch: ; font-size: ; line-heigh=
+t: ; font-family: ; font-optical-sizing: ; font-size-adjust: ; font-kerning=
+: ; font-feature-settings: ; font-variation-settings: ; font-language-overr=
+ide: ; display: block; font-variant-numeric: tabular-nums; }
+
+.eta small { color: var(--muted); font-weight: 600; }
+
+.orderhead { display: flex; justify-content: space-between; gap: 12px; flex=
+-wrap: wrap; align-items: center; margin-bottom: 16px; }
+
+.orderhead h1 { font-size: clamp(1.5rem, 3vw, 2.1rem); font-weight: 800; }
+
+.tl { list-style: none; margin: 0px; padding: 0px; display: grid; }
+
+.tl li { display: grid; grid-template-columns: 34px 1fr; gap: 14px; positio=
+n: relative; padding-bottom: 22px; }
+
+.tl li::before { content: ""; position: absolute; left: 16px; top: 34px; bo=
+ttom: 0px; width: 2px; background: var(--line); transition: background 0.5s=
+; }
+
+.tl li:last-child { padding-bottom: 0px; }
+
+.tl li:last-child::before { display: none; }
+
+.tl li.done::before { background: var(--brand); }
+
+.tl .dot { width: 34px; height: 34px; border-radius: 50%; border: 2px solid=
+ var(--line); background: var(--surface); display: grid; place-items: cente=
+r; color: var(--muted); transition: background 0.4s, border-color 0.4s, col=
+or 0.4s; }
+
+.tl li.done .dot { background: var(--brand); border-color: var(--brand); co=
+lor: var(--brand-ink); }
+
+.tl li.now .dot { border-color: var(--brand); color: var(--brand); animatio=
+n: 1.4s ease 0s infinite normal none running pulseRing; }
+
+@keyframes pulseRing {=20
+  0% { box-shadow: 0 0 0 0 var(--brand-2); }
+  70% { box-shadow: transparent 0px 0px 0px 10px; }
+}
+
+.tl b { display: block; font-size: 0.95rem; }
+
+.tl small { color: var(--muted); font-size: 0.82rem; }
+
+.tl .tm { font-size: 0.74rem; color: var(--muted); font-variant-numeric: ta=
+bular-nums; }
+
+@media (max-width: 900px) {
+  .trk { grid-template-columns: 1fr; }
+}
+
+.progress { position: fixed; left: 0px; top: 0px; height: 3px; width: 100%;=
+ background: linear-gradient(90deg,var(--brand),var(--accent)); transform-o=
+rigin: left center; transform: scaleX(0); z-index: 80; pointer-events: none=
+; }
+
+.hero h1 .w { display: inline-block; animation-duration: 0.75s; animation-t=
+iming-function: cubic-bezier(0.2, 0.8, 0.2, 1); animation-iteration-count: =
+1; animation-direction: normal; animation-fill-mode: both; animation-play-s=
+tate: running; animation-name: wordUp; animation-timeline: auto; animation-=
+range: normal; animation-delay: calc(var(--i)*90ms); }
+
+@keyframes wordUp {=20
+  0% { opacity: 0; transform: translateY(0.55em) rotate(4deg); filter: blur=
+(6px); }
+}
+
+.layer { position: absolute; inset: 0px; transition: transform 0.3s ease-ou=
+t; }
+
+.magnet { transition: transform 0.25s ease-out, box-shadow 0.2s, background=
+ 0.2s; }
+
+.chips { display: grid; gap: 10px; overflow: hidden; mask-image: linear-gra=
+dient(90deg, transparent, rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, transparent); =
+}
+
+.mq { display: flex; gap: 10px; width: max-content; animation: 42s linear 0=
+s infinite normal none running marq; }
+
+.mq.rev { animation-direction: reverse; animation-duration: 48s; }
+
+.chips:hover .mq { animation-play-state: paused; }
+
+@keyframes marq {=20
+  100% { transform: translateX(-50%); }
+}
+
+.chip { display: inline-flex; align-items: center; gap: 8px; padding: 10px =
+16px; border-radius: 999px; border: 1px solid var(--line); background: var(=
+--surface); font-weight: 600; font-size: 0.88rem; white-space: nowrap; tran=
+sition: background 0.2s, color 0.2s, border-color 0.2s; }
+
+.chip i { width: 9px; height: 9px; border-radius: 50%; background: var(--c)=
+; }
+
+.chip:hover { background: var(--ink); color: var(--bg); border-color: var(-=
+-ink); }
+
+.card { will-change: transform; }
+
+.card::after { content: ""; position: absolute; inset: 0px; border-radius: =
+inherit; pointer-events: none; background: radial-gradient(260px circle at =
+var(--px,50%) var(--py,50%),rgba(255,255,255,.28),transparent 45%); opacity=
+: 0; transition: opacity 0.3s; }
+
+.card.tilting::after { opacity: 1; }
+
+.qv { position: absolute; left: 50%; bottom: 10px; transform: translate(-50=
+%, 12px); opacity: 0; border: 0px; border-radius: 999px; background: var(--=
+ink); color: var(--bg); font-weight: 700; font-size: 0.76rem; padding: 7px =
+14px; transition: opacity 0.25s, transform 0.25s; white-space: nowrap; }
+
+.card:hover .qv, .qv:focus-visible { opacity: 1; transform: translate(-50%,=
+ 0px); }
+
+@media (hover: none) {
+  .qv { opacity: 1; transform: translate(-50%, 0px); }
+}
+
+.modal { position: fixed; inset: 0px; z-index: 50; display: grid; place-ite=
+ms: center; padding: 16px; background: rgba(5, 15, 12, 0.55); opacity: 0; p=
+ointer-events: none; transition: opacity 0.3s; }
+
+.modal.on { opacity: 1; pointer-events: auto; }
+
+.mbox { position: relative; background: var(--surface); border-radius: 26px=
+; max-width: 780px; width: 100%; display: grid; grid-template-columns: 1fr =
+1fr; overflow: auto; max-height: 90vh; transform: scale(0.92) translateY(24=
+px); transition: transform 0.5s cubic-bezier(0.2, 1.25, 0.3, 1); }
+
+.modal.on .mbox { transform: none; }
+
+.mart { background: radial-gradient(circle at 50% 40%,var(--brand-2),var(--=
+bg) 70%); display: grid; place-items: center; padding: 34px; min-height: 26=
+0px; }
+
+.mart svg { width: 68%; max-width: 240px; }
+
+.modal.on .mart svg { animation: 0.9s cubic-bezier(0.2, 1.25, 0.3, 1) 0s 1 =
+normal none running spinIn; }
+
+@keyframes spinIn {=20
+  0% { transform: rotate(-24deg) scale(0.55); opacity: 0; }
+}
+
+.minfo { padding: 28px 26px; display: grid; gap: 12px; align-content: start=
+; }
+
+.minfo .catl { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.1em;=
+ text-transform: uppercase; color: var(--brand); }
+
+.minfo h3 { font-size: 1.5rem; }
+
+.minfo .desc { color: var(--muted); font-size: 0.93rem; }
+
+.minfo ul { margin: 0px; padding-left: 18px; color: var(--muted); font-size=
+: 0.88rem; display: grid; gap: 4px; }
+
+.mclose { position: absolute; right: 12px; top: 12px; z-index: 2; }
+
+@media (max-width: 640px) {
+  .mbox { grid-template-columns: 1fr; }
+  .mart { min-height: 200px; }
+}
+
+.bento { display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-ro=
+ws: minmax(160px, auto); gap: 14px; }
+
+.bx { background: var(--surface); border: 1px solid var(--line); border-rad=
+ius: 22px; padding: 20px; position: relative; overflow: hidden; display: fl=
+ex; flex-direction: column; justify-content: space-between; gap: 12px; min-=
+width: 0px; transition: transform 0.3s, box-shadow 0.3s; }
+
+.bx:hover { transform: translateY(-4px); box-shadow: var(--shadow); }
+
+.bx.big { grid-area: span 2 / span 2; background: var(--brand); color: var(=
+--brand-ink); border-color: transparent; }
+
+.bx.wide { grid-column: span 2; }
+
+.bx h3 { font-size: 1.1rem; }
+
+.bx .num { font-style: ; font-variant-ligatures: ; font-variant-caps: ; fon=
+t-variant-east-asian: ; font-variant-alternates: ; font-variant-position: ;=
+ font-variant-emoji: ; font-weight: ; font-stretch: ; font-size: ; font-fam=
+ily: ; font-optical-sizing: ; font-size-adjust: ; font-kerning: ; font-feat=
+ure-settings: ; font-variation-settings: ; font-language-override: ; letter=
+-spacing: -0.03em; font-variant-numeric: tabular-nums; line-height: 1; }
+
+.bx small { color: var(--muted); font-weight: 600; font-size: 0.85rem; }
+
+.bx.big small { color: inherit; opacity: 0.8; }
+
+.route { width: 100%; height: auto; display: block; }
+
+.route .road { stroke-dasharray: 7, 9; animation: 1.1s linear 0s infinite n=
+ormal none running dash; }
+
+@keyframes dash {=20
+  100% { stroke-dashoffset: -32; }
+}
+
+.bubble { align-self: flex-start; background: var(--bg); border-radius: 14p=
+x 14px 14px 4px; padding: 8px 12px; font-size: 0.82rem; max-width: 92%; }
+
+.bubble.me { align-self: flex-end; background: var(--brand); color: var(--b=
+rand-ink); border-radius: 14px 14px 4px; }
+
+.typing { display: inline-flex; gap: 4px; padding: 10px 12px; background: v=
+ar(--bg); border-radius: 14px; align-self: flex-start; }
+
+.typing i { width: 6px; height: 6px; border-radius: 50%; background: var(--=
+muted); animation: 1.2s ease 0s infinite normal none running blink; }
+
+.typing i:nth-child(2) { animation-delay: 0.2s; }
+
+.typing i:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes blink {=20
+  50% { opacity: 0.25; transform: translateY(-3px); }
+}
+
+.pulse { position: relative; width: 48px; height: 48px; border-radius: 50%;=
+ background: var(--brand-2); display: grid; place-items: center; color: var=
+(--brand); }
+
+.pulse::after { content: ""; position: absolute; inset: 0px; border-radius:=
+ 50%; border: 2px solid var(--brand); animation: 2s ease-out 0s infinite no=
+rmal none running ring; }
+
+@keyframes ring {=20
+  100% { transform: scale(1.9); opacity: 0; }
+}
+
+.bars { display: flex; align-items: flex-end; gap: 6px; height: 56px; }
+
+.bars i { flex: 1 1 0%; border-radius: 6px 6px 2px 2px; background: var(--a=
+ccent); opacity: 0.85; animation: 2.4s ease-in-out 0s infinite alternate no=
+ne running barUp; transform-origin: center bottom; }
+
+@keyframes barUp {=20
+  0% { transform: scaleY(0.45); }
+}
+
+@media (max-width: 900px) {
+  .bento { grid-template-columns: 1fr 1fr; }
+  .bx.big { grid-area: auto / span 2; }
+}
+
+@media (max-width: 480px) {
+  .bento { grid-template-columns: 1fr; }
+  .bx.big, .bx.wide { grid-column: auto; }
+}
+
+.packwrap { display: grid; grid-template-columns: 1fr 1.1fr; gap: 30px; ali=
+gn-items: center; background: var(--surface); border: 1px solid var(--line)=
+; border-radius: 28px; padding: 30px; min-width: 0px; }
+
+.packwrap h2 { font-size: clamp(1.5rem, 3vw, 2.1rem); font-weight: 800; }
+
+.packwrap .lead { color: var(--muted); margin-top: 8px; }
+
+.goals { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+
+.goal { border: 1.5px solid var(--line); background: var(--bg); border-radi=
+us: 999px; padding: 9px 15px; font-weight: 700; font-size: 0.86rem; transit=
+ion: background 0.2s, color 0.2s, border-color 0.2s, transform 0.2s; }
+
+.goal[aria-pressed=3D"true"] { background: var(--brand); color: var(--brand=
+-ink); border-color: var(--brand); transform: translateY(-2px); }
+
+.organizer { display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px=
+; padding: 14px; border-radius: 22px; background: linear-gradient(180deg,va=
+r(--brand-2),var(--bg)); border: 1px solid var(--line); }
+
+.day { border-radius: 14px; background: var(--surface); border: 1px solid v=
+ar(--line); min-height: 120px; display: flex; flex-direction: column; align=
+-items: center; gap: 6px; padding: 8px 4px; box-shadow: rgba(0, 0, 0, 0.05)=
+ 0px 4px 10px inset; }
+
+.day b { font-size: 0.68rem; color: var(--muted); letter-spacing: 0.06em; m=
+argin-bottom: 2px; }
+
+.pill { width: 22px; height: 10px; border-radius: 999px; background: linear=
+-gradient(90deg,var(--c) 50%,color-mix(in srgb,var(--c) 30%,#fff) 50%); box=
+-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px; animation-duration: 0.55s; animat=
+ion-timing-function: cubic-bezier(0.3, 1.5, 0.5, 1); animation-iteration-co=
+unt: 1; animation-direction: normal; animation-fill-mode: both; animation-p=
+lay-state: running; animation-name: drop; animation-timeline: auto; animati=
+on-range: normal; animation-delay: var(--dl); }
+
+@keyframes drop {=20
+  0% { transform: translateY(-46px) rotate(120deg); opacity: 0; }
+}
+
+.packlist { margin-top: 16px; display: grid; gap: 8px; font-size: 0.9rem; }
+
+.packlist div { display: flex; justify-content: space-between; gap: 10px; a=
+lign-items: center; }
+
+.packlist i { display: inline-block; width: 10px; height: 10px; border-radi=
+us: 50%; background: var(--c); margin-right: 8px; }
+
+.packsum { margin-top: 16px; display: flex; justify-content: space-between;=
+ align-items: center; gap: 12px; flex-wrap: wrap; padding-top: 14px; border=
+-top: 1px dashed var(--line); }
+
+.packsum b { font: 800 1.3rem var(--f-display); }
+
+.note { font-size: 0.76rem; color: var(--muted); margin-top: 12px; }
+
+@media (max-width: 860px) {
+  .packwrap { grid-template-columns: 1fr; padding: 20px; }
+  .day { min-height: 96px; }
+}
+
+@media (max-width: 420px) {
+  .organizer { gap: 4px; padding: 8px; }
+  .pill { width: 15px; height: 8px; }
+}
+
+.fcart { position: fixed; right: 18px; bottom: calc(18px + env(safe-area-in=
+set-bottom,0px)); z-index: 35; display: flex; align-items: center; gap: 14p=
+x; background: var(--ink); color: var(--bg); border: 0px; border-radius: 99=
+9px; padding: 7px 7px 7px 18px; font-weight: 700; font-size: 0.9rem; box-sh=
+adow: var(--shadow); transform: translateY(170%); transition: transform 0.5=
+s cubic-bezier(0.2, 1.25, 0.3, 1); }
+
+.fcart.on { transform: none; }
+
+.fcart .go { background: var(--accent); color: rgb(255, 255, 255); border-r=
+adius: 999px; padding: 8px 14px; }
+
+@media (max-width: 640px) {
+  .fcart { left: 16px; right: 16px; justify-content: space-between; }
+}
+
+.toast { bottom: calc(86px + env(safe-area-inset-bottom,0px)); transform: t=
+ranslate(-50%, calc(100% + 140px)); opacity: 0; transition: transform 0.35s=
+ cubic-bezier(0.2, 0.9, 0.3, 1.3), opacity 0.25s; }
+
+.toast.on { transform: translate(-50%, 0px); opacity: 1; }
+
+.fd { font-size: 0.83rem; font-weight: 600; }
+
+.fdbar { height: 8px; border-radius: 8px; background: var(--line); overflow=
+: hidden; margin-top: 6px; }
+
+.fdbar i { display: block; height: 100%; width: 0px; background: linear-gra=
+dient(90deg,var(--brand),var(--accent)); border-radius: 8px; transition: wi=
+dth 0.6s cubic-bezier(0.2, 0.8, 0.2, 1); }
+
+.confetti { position: fixed; left: 0px; top: 0px; width: 8px; height: 12px;=
+ z-index: 90; pointer-events: none; border-radius: 2px; }
+
+.theme-ic .moon { display: none; }
+
+:root[data-theme=3D"dark"] .theme-ic .sun { display: none; }
+
+:root[data-theme=3D"dark"] .theme-ic .moon { display: block; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme=3D"light"]) .theme-ic .sun { display: none; }
+  :root:not([data-theme=3D"light"]) .theme-ic .moon { display: block; }
+}
+
+body, header, .card, .cat, .bx, .drawer { transition-property: background-c=
+olor, border-color, color, transform, box-shadow; transition-duration: 0.35=
+s; }
+
+section[id] { scroll-margin-top: calc(var(--hh,110px) + 10px); }
+
+.story .stick { top: calc(var(--hh,110px) + 10px); height: calc(100svh - va=
+r(--hh,110px) - 20px); }
+
+.gal, .summary { top: calc(var(--hh,110px) + 16px); }
+
+@media (max-width: 760px) {
+  .hbar { gap: 10px; padding-block: 10px; }
+  header.scrolled .hbar { padding-block: 7px; }
+  .logo { font-size: 1.15rem; }
+  .logo .mark { width: 30px; height: 30px; border-radius: 9px; }
+  .ibtn { width: 38px; height: 38px; border-radius: 11px; }
+  #acct { display: none; }
+  .search input { padding: 8px 12px; }
+  .search button { padding: 7px 14px; font-size: 0.8rem; }
+  nav.cats a { padding: 8px 11px; font-size: 0.8rem; }
+  header.scrolled nav.cats { display: none; }
+  .hero { padding-block: 26px 18px; }
+  .perks { gap: 12px 18px; margin-top: 20px; }
+  .ctas .btn { flex: 1 1 100%; justify-content: center; }
+  .story-art { height: 26vh !important; min-height: 150px !important; }
+  .story-copy .pill-tag { display: none; }
+  .story-copy h2 { font-size: 1.25rem !important; }
+  .st { grid-template-columns: 36px 1fr; gap: 10px; }
+  .st .n { width: 36px; height: 36px; border-radius: 10px; }
+  section { padding-block: 34px; }
+  .news form { flex-direction: column; border-radius: 18px; padding: 6px; }
+  .news form .btn { justify-content: center; }
+  .slots { grid-template-columns: 1fr 1fr; }
+  .stepper { gap: 6px; }
+  .stepper em { flex-basis: 14px; }
+  .eta { left: 10px; top: 10px; padding: 8px 11px; }
+  .eta b { font-size: 1.1rem; }
+  .orderhead .btn { width: 100%; justify-content: center; }
+  .box { padding: 18px; border-radius: 18px; }
+  .toast { font-size: 0.85rem; padding: 10px 14px; text-align: center; }
+}
+
+@media (hover: none) {
+  .qv { display: none; }
+}
+
+@media (max-width: 480px) {
+  .slots { grid-template-columns: 1fr 1fr; }
+  .slotb { padding: 10px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after { animation: auto ease 0s 1 normal none running none=
+ !important; transition: none !important; }
+  html { }
+}
+------MultipartBoundary--J3GHsNUTfnx4ofbx7O9c23wX6e2HNyQRl5MlN7l6QX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8c387b29-e8c5-4f68-a231-550ef74e03b9@mhtml.blink
+
+@charset "utf-8";
+
+img { max-width: 100%; }
+------MultipartBoundary--J3GHsNUTfnx4ofbx7O9c23wX6e2HNyQRl5MlN7l6QX------
